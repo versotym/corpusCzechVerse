@@ -29,7 +29,7 @@ Each file holds poems comming from a single poetry. Each poem is a dict with fol
 		'name': NAME AS PRINTED IN THE BOOK #it differs from 'identity' in case of pen name,
 		'born': THE YEAR AUTHOR WAS BORN,
 		'died': THE YEAR AUTHOR DIED,
-	}
+	},
 
 	# Metadata on author of the poem
 	'p_author': {
@@ -37,7 +37,7 @@ Each file holds poems comming from a single poetry. Each poem is a dict with fol
 		'name': NAME AS PRINTED IN THE BOOK #it differs from 'identity' in case of pen name,
 		'born': THE YEAR AUTHOR WAS BORN,
 		'died': THE YEAR AUTHOR DIED,
-	}
+	},
 	
 	'biblio': {
 		'p_title': TITLE OF THE POEM,
@@ -69,7 +69,7 @@ Each file holds poems comming from a single poetry. Each poem is a dict with fol
 				'clause': TYPE OF LINE ENDING (f=feminine, m=masculine, a=acatalectic),
 				'foot': NUMBER OF FOOT,
 				'pattern': PATTERN OF STRONG(S) AND WEAK(W) POSITIONS,
-			}, ...]
+			}, ...],
 
 			# List of words and their metadata
 			'words': [{
@@ -80,7 +80,7 @@ Each file holds poems comming from a single poetry. Each poem is a dict with fol
 			      'xsampa': PHONETIC TRANSCRIPTION IN XSAMPA,
 			      'phoebe': SIMPLIFIED PHONETIC TRANSCRIPTION (CCV INTERNAL FORMAT),
 		
-			}, ...]
+			}, ...],
 
 			# Dict holding punctuation marks
 			# Punctuation marks are stored under the key which corresponds
