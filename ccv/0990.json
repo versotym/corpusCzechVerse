@@ -1,0 +1,5506 @@
+[
+  {
+    "p_author": {
+      "born": 1741,
+      "died": 1816,
+      "name": "Vav\u00e1k, Franti\u0161ek Jan",
+      "identity": "Vav\u00e1k, Franti\u0161ek Jan"
+    },
+    "biblio": {
+      "motto_aut": null,
+      "b_subtitle": null,
+      "publisher": "neuveden",
+      "edition": "[1.]",
+      "motto": null,
+      "p_title": null,
+      "place": "neuvedeno",
+      "dedication": null,
+      "b_title": "Horn\u00edk\u016fv kutensk\u00fdch starod\u00e1vn\u00ed modlitba P\u00e1na Boha za po\u017eehn\u00e1n\u00ed Hor \u017e\u00e1daj\u00edc\u00edch",
+      "pages": "[8]",
+      "year": "1801",
+      "signature": "N\u00e1rodn\u00ed knihovna \u010cR, Praha; 54 G 2279"
+    },
+    "book_id": "0990",
+    "poem_id": "0001-0000-0000-0001-0000",
+    "b_author": {
+      "born": 1741,
+      "died": 1816,
+      "name": "Vav\u00e1k, Franti\u0161ek Jan",
+      "identity": "Vav\u00e1k, Franti\u0161ek Jan"
+    },
+    "body": [
+      [
+        {
+          "text": "P\u0159ed tebou se klan\u00edme,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159ed",
+              "xsampa": "pP\\Et",
+              "morph": "RR--7-----------",
+              "phoebe": "pRet",
+              "token": "P\u0159ed",
+              "lemma": "p\u0159ed"
+            },
+            {
+              "token_lc": "tebou",
+              "xsampa": "tEbo_u",
+              "morph": "PP-S7--2--------",
+              "phoebe": "teb0",
+              "token": "tebou",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "klan\u00edme",
+              "xsampa": "klaJi:mE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "klaNIme",
+              "token": "klan\u00edme",
+              "lemma": "klan\u011bt"
+            }
+          ],
+          "rhyme": 1,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "O Bo\u017ee na v\u00fdsosti!",
+          "punct": {
+            "4": "!"
+          },
+          "words": [
+            {
+              "token_lc": "o",
+              "xsampa": "o",
+              "morph": "RR--6-----------",
+              "phoebe": "o",
+              "token": "O",
+              "lemma": "o"
+            },
+            {
+              "token_lc": "bo\u017ee",
+              "xsampa": "boZE",
+              "morph": "NNMS5-----A-----",
+              "phoebe": "boZe",
+              "token": "Bo\u017ee",
+              "lemma": "b\u016fh"
+            },
+            {
+              "token_lc": "na",
+              "xsampa": "na",
+              "morph": "RR--6-----------",
+              "phoebe": "na",
+              "token": "na",
+              "lemma": "na"
+            },
+            {
+              "token_lc": "v\u00fdsosti",
+              "xsampa": "vi:soscI",
+              "morph": "NNFS6-----A-----",
+              "phoebe": "vIsosTi",
+              "token": "v\u00fdsosti",
+              "lemma": "v\u00fdsost"
+            }
+          ],
+          "rhyme": 2,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "T\u011b srdcem, usty ct\u00edme",
+          "punct": {
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "t\u011b",
+              "xsampa": "cE",
+              "morph": "PH-S4--2--------",
+              "phoebe": "Te",
+              "token": "T\u011b",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "srdcem",
+              "xsampa": "sr=tt_sEm",
+              "morph": "NNNS7-----A-----",
+              "phoebe": "sQtcem",
+              "token": "srdcem",
+              "lemma": "srdce"
+            },
+            {
+              "token_lc": "usty",
+              "xsampa": "ustI",
+              "morph": "X24-------------",
+              "phoebe": "usti",
+              "token": "usty",
+              "lemma": "usty"
+            },
+            {
+              "token_lc": "ct\u00edme",
+              "xsampa": "t_sci:mE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "cTIme",
+              "token": "ct\u00edme",
+              "lemma": "ct\u00edt"
+            }
+          ],
+          "rhyme": 1,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "S horlivou duv\u011brnosti:",
+          "punct": {
+            "3": ":"
+          },
+          "words": [
+            {
+              "token_lc": "s",
+              "xsampa": "z",
+              "morph": "RR--7-----------",
+              "phoebe": "z",
+              "token": "S",
+              "lemma": "s"
+            },
+            {
+              "token_lc": "horlivou",
+              "xsampa": "h\\orlIvo_u",
+              "morph": "AAFS7----1A-----",
+              "phoebe": "horliv0",
+              "token": "horlivou",
+              "lemma": "horliv\u00fd"
+            },
+            {
+              "token_lc": "duv\u011brnosti",
+              "xsampa": "duvjErnoscI",
+              "morph": "X24-------------",
+              "phoebe": "duvjernosTi",
+              "token": "duv\u011brnosti",
+              "lemma": "duv\u011brnosti"
+            }
+          ],
+          "rhyme": 2,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "P\u0159ed tebou se ko\u0159\u00edme,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159ed",
+              "xsampa": "pP\\Et",
+              "morph": "RR--7-----------",
+              "phoebe": "pRet",
+              "token": "P\u0159ed",
+              "lemma": "p\u0159ed"
+            },
+            {
+              "token_lc": "tebou",
+              "xsampa": "tEbo_u",
+              "morph": "PP-S7--2--------",
+              "phoebe": "teb0",
+              "token": "tebou",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "ko\u0159\u00edme",
+              "xsampa": "koP\\i:mE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "koRIme",
+              "token": "ko\u0159\u00edme",
+              "lemma": "ko\u0159it"
+            }
+          ],
+          "rhyme": 1,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "Za tv\u00e9 dary prosyme,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "za",
+              "xsampa": "za",
+              "morph": "RR--4-----------",
+              "phoebe": "za",
+              "token": "Za",
+              "lemma": "za"
+            },
+            {
+              "token_lc": "tv\u00e9",
+              "xsampa": "tvE:",
+              "morph": "PSIP4-S2------1-",
+              "phoebe": "tvE",
+              "token": "tv\u00e9",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "dary",
+              "xsampa": "darI",
+              "morph": "NNIP4-----A-----",
+              "phoebe": "dari",
+              "token": "dary",
+              "lemma": "dar"
+            },
+            {
+              "token_lc": "prosyme",
+              "xsampa": "prosImE",
+              "morph": "X24-------------",
+              "phoebe": "prosime",
+              "token": "prosyme",
+              "lemma": "prosyme"
+            }
+          ],
+          "rhyme": 1,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Sly\u0161 mil\u00e9 na\u0161e tou\u017een\u00ed",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "sly\u0161",
+              "xsampa": "slIS",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "sliS",
+              "token": "Sly\u0161",
+              "lemma": "sly\u0161et"
+            },
+            {
+              "token_lc": "mil\u00e9",
+              "xsampa": "mIlE:",
+              "morph": "AANS4----1A-----",
+              "phoebe": "milE",
+              "token": "mil\u00e9",
+              "lemma": "mil\u00fd"
+            },
+            {
+              "token_lc": "na\u0161e",
+              "xsampa": "naSE",
+              "morph": "PSNS4-P1--------",
+              "phoebe": "naSe",
+              "token": "na\u0161e",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "tou\u017een\u00ed",
+              "xsampa": "to_uZEJi:",
+              "morph": "NNNS4-----A-----",
+              "phoebe": "t0ZeNI",
+              "token": "tou\u017een\u00ed",
+              "lemma": "tou\u017een\u00ed"
+            }
+          ],
+          "rhyme": 3,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "11010100"
+        },
+        {
+          "text": "Pro Krystovo zaslou\u017een\u00ed.",
+          "punct": {
+            "3": "."
+          },
+          "words": [
+            {
+              "token_lc": "pro",
+              "xsampa": "pro",
+              "morph": "RR--4-----------",
+              "phoebe": "pro",
+              "token": "Pro",
+              "lemma": "pro"
+            },
+            {
+              "token_lc": "krystovo",
+              "xsampa": "krIstovo",
+              "morph": "AUNS4M----------",
+              "phoebe": "kristovo",
+              "token": "Krystovo",
+              "lemma": "Kryst\u016fv"
+            },
+            {
+              "token_lc": "zaslou\u017een\u00ed",
+              "xsampa": "zaslo_uZEJi:",
+              "morph": "NNNS4-----A-----",
+              "phoebe": "zasl0ZeNI",
+              "token": "zaslou\u017een\u00ed",
+              "lemma": "zaslou\u017een\u00ed"
+            }
+          ],
+          "rhyme": 3,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10001000"
+        }
+      ],
+      [
+        {
+          "text": "Ans svou v\u0161emohoucnosti",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "ans",
+              "xsampa": "ans",
+              "morph": "X24-------------",
+              "phoebe": "ans",
+              "token": "Ans",
+              "lemma": "Ans"
+            },
+            {
+              "token_lc": "svou",
+              "xsampa": "svo_u",
+              "morph": "P8FS4---------1-",
+              "phoebe": "sv0",
+              "token": "svou",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "v\u0161emohoucnosti",
+              "xsampa": "fSEmoh\\o_ut_snoscI",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "fSemoh0cnosTi",
+              "token": "v\u0161emohoucnosti",
+              "lemma": "v\u0161emohoucnost"
+            }
+          ],
+          "rhyme": 2,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010000"
+        },
+        {
+          "text": "R\u00e1\u010dil v\u0161ecko stvo\u0159\u00edti,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "r\u00e1\u010dil",
+              "xsampa": "ra:t_SIl",
+              "morph": "VpMS---3R-AA---I",
+              "phoebe": "rACil",
+              "token": "R\u00e1\u010dil",
+              "lemma": "r\u00e1\u010dit"
+            },
+            {
+              "token_lc": "v\u0161ecko",
+              "xsampa": "fSEt_sko",
+              "morph": "PLNS4-----------",
+              "phoebe": "fSecko",
+              "token": "v\u0161ecko",
+              "lemma": "v\u0161ecek"
+            },
+            {
+              "token_lc": "stvo\u0159\u00edti",
+              "xsampa": "stvoP\\i:cI",
+              "morph": "X24-------------",
+              "phoebe": "stvoRITi",
+              "token": "stvo\u0159\u00edti",
+              "lemma": "stvo\u0159\u00edti"
+            }
+          ],
+          "rhyme": 4,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Y vz\u00e1cn\u00fdch kov\u016f mno\u017estv\u00ed",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "y",
+              "xsampa": "I",
+              "morph": "NN------------8-",
+              "phoebe": "i",
+              "token": "Y",
+              "lemma": "Y"
+            },
+            {
+              "token_lc": "vz\u00e1cn\u00fdch",
+              "xsampa": "vza:t_sni:x",
+              "morph": "AAIP2----1A-----",
+              "phoebe": "vzAcnIx",
+              "token": "vz\u00e1cn\u00fdch",
+              "lemma": "vz\u00e1cn\u00fd"
+            },
+            {
+              "token_lc": "kov\u016f",
+              "xsampa": "kovu:",
+              "morph": "NNIP2-----A-----",
+              "phoebe": "kovU",
+              "token": "kov\u016f",
+              "lemma": "kov"
+            },
+            {
+              "token_lc": "mno\u017estv\u00ed",
+              "xsampa": "mnoSstvi:",
+              "morph": "NNNS2-----A-----",
+              "phoebe": "mnoSstvI",
+              "token": "mno\u017estv\u00ed",
+              "lemma": "mno\u017estv\u00ed"
+            }
+          ],
+          "rhyme": 2,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1101010"
+        },
+        {
+          "text": "V st\u0159ev\u00e1ch zem\u011b slo\u017e\u00edti:",
+          "punct": {
+            "4": ":"
+          },
+          "words": [
+            {
+              "token_lc": "v",
+              "xsampa": "f",
+              "morph": "RR--6-----------",
+              "phoebe": "f",
+              "token": "V",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "st\u0159ev\u00e1ch",
+              "xsampa": "stP\\Eva:x",
+              "morph": "NNNP6-----A---6-",
+              "phoebe": "stRevAx",
+              "token": "st\u0159ev\u00e1ch",
+              "lemma": "st\u0159evo"
+            },
+            {
+              "token_lc": "zem\u011b",
+              "xsampa": "zEmJE",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "zemNe",
+              "token": "zem\u011b",
+              "lemma": "zem\u011b"
+            },
+            {
+              "token_lc": "slo\u017e\u00edti",
+              "xsampa": "sloZi:cI",
+              "morph": "X24-------------",
+              "phoebe": "sloZITi",
+              "token": "slo\u017e\u00edti",
+              "lemma": "slo\u017e\u00edti"
+            }
+          ],
+          "rhyme": 4,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "By slou\u017eili k dobr\u00e9mu",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "by",
+              "xsampa": "bI",
+              "morph": "Vc-------------I",
+              "phoebe": "bi",
+              "token": "By",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "slou\u017eili",
+              "xsampa": "slo_uZIlI",
+              "morph": "VpMP---3R-AA---I",
+              "phoebe": "sl0Zili",
+              "token": "slou\u017eili",
+              "lemma": "slou\u017eit"
+            },
+            {
+              "token_lc": "k",
+              "xsampa": "g",
+              "morph": "RR--3-----------",
+              "phoebe": "g",
+              "token": "k",
+              "lemma": "k"
+            },
+            {
+              "token_lc": "dobr\u00e9mu",
+              "xsampa": "dobrE:mu",
+              "morph": "AANS3----1A-----",
+              "phoebe": "dobrEmu",
+              "token": "dobr\u00e9mu",
+              "lemma": "dobr\u00fd"
+            }
+          ],
+          "rhyme": 5,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0100100"
+        },
+        {
+          "text": "Pokolen\u00ed lidsk\u00e9mu,",
+          "punct": {
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "pokolen\u00ed",
+              "xsampa": "pokolEJi:",
+              "morph": "NNNS1-----A-----",
+              "phoebe": "pokoleNI",
+              "token": "Pokolen\u00ed",
+              "lemma": "pokolen\u00ed"
+            },
+            {
+              "token_lc": "lidsk\u00e9mu",
+              "xsampa": "lItskE:mu",
+              "morph": "AAMS3----1A-----",
+              "phoebe": "litskEmu",
+              "token": "lidsk\u00e9mu",
+              "lemma": "lidsk\u00fd"
+            }
+          ],
+          "rhyme": 5,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "Tv\u00e1 dustojnost, moc a s\u00fdla",
+          "punct": {
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "tv\u00e1",
+              "xsampa": "tva:",
+              "morph": "PSFS1-S2------1-",
+              "phoebe": "tvA",
+              "token": "Tv\u00e1",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "dustojnost",
+              "xsampa": "dustojnost",
+              "morph": "X24-------------",
+              "phoebe": "dustojnost",
+              "token": "dustojnost",
+              "lemma": "dustojnost"
+            },
+            {
+              "token_lc": "moc",
+              "xsampa": "mot_s",
+              "morph": "Db--------------",
+              "phoebe": "moc",
+              "token": "moc",
+              "lemma": "moc"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "s\u00fdla",
+              "xsampa": "si:la",
+              "morph": "X24-------------",
+              "phoebe": "sIla",
+              "token": "s\u00fdla",
+              "lemma": "s\u00fdla"
+            }
+          ],
+          "rhyme": 6,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01001010"
+        },
+        {
+          "text": "Aby od n\u00e1s ct\u011bn\u00e1 byla.",
+          "punct": {
+            "5": "."
+          },
+          "words": [
+            {
+              "token_lc": "aby",
+              "xsampa": "abI",
+              "morph": "J,--------------",
+              "phoebe": "abi",
+              "token": "Aby",
+              "lemma": "aby"
+            },
+            {
+              "token_lc": "od",
+              "xsampa": "od",
+              "morph": "RR--2-----------",
+              "phoebe": "od",
+              "token": "od",
+              "lemma": "od"
+            },
+            {
+              "token_lc": "n\u00e1s",
+              "xsampa": "na:s",
+              "morph": "PP-P2--1--------",
+              "phoebe": "nAs",
+              "token": "n\u00e1s",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "ct\u011bn\u00e1",
+              "xsampa": "t_scEna:",
+              "morph": "AAFS1----1A-----",
+              "phoebe": "cTenA",
+              "token": "ct\u011bn\u00e1",
+              "lemma": "ct\u011bn\u00fd"
+            },
+            {
+              "token_lc": "byla",
+              "xsampa": "bIla",
+              "morph": "VpFS---3R-AA---I",
+              "phoebe": "bila",
+              "token": "byla",
+              "lemma": "b\u00fdt"
+            }
+          ],
+          "rhyme": 6,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101010"
+        }
+      ],
+      [
+        {
+          "text": "NEbe n\u00e1m vypravuje",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "nebe",
+              "xsampa": "nEbE",
+              "morph": "NNNS1-----A-----",
+              "phoebe": "nebe",
+              "token": "NEbe",
+              "lemma": "nebe"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "vypravuje",
+              "xsampa": "vIpravujE",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "vipravuje",
+              "token": "vypravuje",
+              "lemma": "vypravovat"
+            }
+          ],
+          "rhyme": 7,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "Tvou sl\u00e1vu ka\u017edoden\u011b,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "tvou",
+              "xsampa": "tvo_u",
+              "morph": "PSFS4-S2------1-",
+              "phoebe": "tv0",
+              "token": "Tvou",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "sl\u00e1vu",
+              "xsampa": "sla:vu",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "slAvu",
+              "token": "sl\u00e1vu",
+              "lemma": "sl\u00e1va"
+            },
+            {
+              "token_lc": "ka\u017edoden\u011b",
+              "xsampa": "kaZdodEJE",
+              "morph": "X24-------------",
+              "phoebe": "kaZdodeNe",
+              "token": "ka\u017edoden\u011b",
+              "lemma": "ka\u017edoden\u011b"
+            }
+          ],
+          "rhyme": 8,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "\u017de pln\u00e1 jest zjevuje",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "\u017ee",
+              "xsampa": "ZE",
+              "morph": "J,--------------",
+              "phoebe": "Ze",
+              "token": "\u017de",
+              "lemma": "\u017ee"
+            },
+            {
+              "token_lc": "pln\u00e1",
+              "xsampa": "pl=na:",
+              "morph": "AAFS1----1A-----",
+              "phoebe": "pLnA",
+              "token": "pln\u00e1",
+              "lemma": "pln\u00fd"
+            },
+            {
+              "token_lc": "jest",
+              "xsampa": "jEst",
+              "morph": "VB-S---3P-AA--2I",
+              "phoebe": "jest",
+              "token": "jest",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "zjevuje",
+              "xsampa": "zjEvujE",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "zjevuje",
+              "token": "zjevuje",
+              "lemma": "zjevovat"
+            }
+          ],
+          "rhyme": 7,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0100100"
+        },
+        {
+          "text": "Tv\u00e9 sl\u00e1vi take zem\u011b,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "tv\u00e9",
+              "xsampa": "tvE:",
+              "morph": "PSIP1-S2------1-",
+              "phoebe": "tvE",
+              "token": "Tv\u00e9",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "sl\u00e1vi",
+              "xsampa": "sla:vI",
+              "morph": "X24-------------",
+              "phoebe": "slAvi",
+              "token": "sl\u00e1vi",
+              "lemma": "sl\u00e1vi"
+            },
+            {
+              "token_lc": "take",
+              "xsampa": "takE",
+              "morph": "X24-------------",
+              "phoebe": "take",
+              "token": "take",
+              "lemma": "take"
+            },
+            {
+              "token_lc": "zem\u011b",
+              "xsampa": "zEmJE",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "zemNe",
+              "token": "zem\u011b",
+              "lemma": "zem\u011b"
+            }
+          ],
+          "rhyme": 8,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Chl\u00e9b n\u00e1m rod\u00ed v rovyn\u00e1ch,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "chl\u00e9b",
+              "xsampa": "xlE:p",
+              "morph": "NNIS1-----A---1-",
+              "phoebe": "xlEp",
+              "token": "Chl\u00e9b",
+              "lemma": "chl\u00e9b"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "rod\u00ed",
+              "xsampa": "roJ\\i:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "roDI",
+              "token": "rod\u00ed",
+              "lemma": "rodit"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "rovyn\u00e1ch",
+              "xsampa": "rovIna:x",
+              "morph": "X24-------------",
+              "phoebe": "rovinAx",
+              "token": "rovyn\u00e1ch",
+              "lemma": "rovyn\u00e1ch"
+            }
+          ],
+          "rhyme": 9,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Drah\u00e9 kovy v dolin\u00e1ch,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "drah\u00e9",
+              "xsampa": "drah\\E:",
+              "morph": "AAIP1----1A-----",
+              "phoebe": "drahE",
+              "token": "Drah\u00e9",
+              "lemma": "drah\u00fd"
+            },
+            {
+              "token_lc": "kovy",
+              "xsampa": "kovI",
+              "morph": "NNIP1-----A-----",
+              "phoebe": "kovi",
+              "token": "kovy",
+              "lemma": "kov"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "dolin\u00e1ch",
+              "xsampa": "dolIna:x",
+              "morph": "NNFP6-----A-----",
+              "phoebe": "dolinAx",
+              "token": "dolin\u00e1ch",
+              "lemma": "dolina"
+            }
+          ],
+          "rhyme": 9,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "V\u0161udy jest plno tv\u00e9 sl\u00e1v\u00ed",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "v\u0161udy",
+              "xsampa": "fSudI",
+              "morph": "Db--------------",
+              "phoebe": "fSudi",
+              "token": "V\u0161udy",
+              "lemma": "v\u0161udy"
+            },
+            {
+              "token_lc": "jest",
+              "xsampa": "jEst",
+              "morph": "VB-S---3P-AA--2I",
+              "phoebe": "jest",
+              "token": "jest",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "plno",
+              "xsampa": "pl=no",
+              "morph": "Db--------------",
+              "phoebe": "pLno",
+              "token": "plno",
+              "lemma": "plno"
+            },
+            {
+              "token_lc": "tv\u00e9",
+              "xsampa": "tvE:",
+              "morph": "PSFS2-S2------1-",
+              "phoebe": "tvE",
+              "token": "tv\u00e9",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "sl\u00e1v\u00ed",
+              "xsampa": "sla:vi:",
+              "morph": "X24-------------",
+              "phoebe": "slAvI",
+              "token": "sl\u00e1v\u00ed",
+              "lemma": "sl\u00e1v\u00ed"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10010010"
+        },
+        {
+          "text": "A ka\u017ed\u00fd tvor tebe chv\u00e1li.",
+          "punct": {
+            "5": "."
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "ka\u017ed\u00fd",
+              "xsampa": "kaZdi:",
+              "morph": "PLMS1-----------",
+              "phoebe": "kaZdI",
+              "token": "ka\u017ed\u00fd",
+              "lemma": "ka\u017ed\u00fd"
+            },
+            {
+              "token_lc": "tvor",
+              "xsampa": "tvor",
+              "morph": "NNMS1-----A-----",
+              "phoebe": "tvor",
+              "token": "tvor",
+              "lemma": "tvor"
+            },
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "chv\u00e1li",
+              "xsampa": "xva:lI",
+              "morph": "X24-------------",
+              "phoebe": "xvAli",
+              "token": "chv\u00e1li",
+              "lemma": "chv\u00e1li"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01011010"
+        }
+      ],
+      [
+        {
+          "text": "PROz\u0159etelnost tv\u00e1 Bo\u017esk\u00e1,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "proz\u0159etelnost",
+              "xsampa": "prozP\\EtElnost",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "prozRetelnost",
+              "token": "PROz\u0159etelnost",
+              "lemma": "proz\u0159etelnost"
+            },
+            {
+              "token_lc": "tv\u00e1",
+              "xsampa": "tva:",
+              "morph": "PSFS1-S2------1-",
+              "phoebe": "tvA",
+              "token": "tv\u00e1",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "bo\u017esk\u00e1",
+              "xsampa": "boSska:",
+              "morph": "AAFS1----1A-----",
+              "phoebe": "boSskA",
+              "token": "Bo\u017esk\u00e1",
+              "lemma": "bo\u017esk\u00fd"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000010"
+        },
+        {
+          "text": "A\u010d r\u00e1da rozmno\u017euje,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "a\u010d",
+              "xsampa": "at_S",
+              "morph": "J,--------------",
+              "phoebe": "aC",
+              "token": "A\u010d",
+              "lemma": "a\u010d"
+            },
+            {
+              "token_lc": "r\u00e1da",
+              "xsampa": "ra:da",
+              "morph": "ACFS------A-----",
+              "phoebe": "rAda",
+              "token": "r\u00e1da",
+              "lemma": "r\u00e1d"
+            },
+            {
+              "token_lc": "rozmno\u017euje",
+              "xsampa": "rozmnoZujE",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "rozmnoZuje",
+              "token": "rozmno\u017euje",
+              "lemma": "rozmno\u017eovat"
+            }
+          ],
+          "rhyme": 7,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "V\u0161ak kdy\u017e zroste zlost lidsk\u00e1,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "v\u0161ak",
+              "xsampa": "fSak",
+              "morph": "J^--------------",
+              "phoebe": "fSak",
+              "token": "V\u0161ak",
+              "lemma": "v\u0161ak"
+            },
+            {
+              "token_lc": "kdy\u017e",
+              "xsampa": "gdIS",
+              "morph": "J,--------------",
+              "phoebe": "gdiS",
+              "token": "kdy\u017e",
+              "lemma": "kdy\u017e"
+            },
+            {
+              "token_lc": "zroste",
+              "xsampa": "zrostE",
+              "morph": "VB-S---3P-AA---P",
+              "phoebe": "zroste",
+              "token": "zroste",
+              "lemma": "zr\u016fst"
+            },
+            {
+              "token_lc": "zlost",
+              "xsampa": "zlost",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "zlost",
+              "token": "zlost",
+              "lemma": "zlost"
+            },
+            {
+              "token_lc": "lidsk\u00e1",
+              "xsampa": "lItska:",
+              "morph": "AAFS1----1A-----",
+              "phoebe": "litskA",
+              "token": "lidsk\u00e1",
+              "lemma": "lidsk\u00fd"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010110"
+        },
+        {
+          "text": "Tu\u0165 zase umen\u0161uje:",
+          "punct": {
+            "3": ":"
+          },
+          "words": [
+            {
+              "token_lc": "tu\u0165",
+              "xsampa": "tuc",
+              "morph": "X24-------------",
+              "phoebe": "tuT",
+              "token": "Tu\u0165",
+              "lemma": "Tu\u0165"
+            },
+            {
+              "token_lc": "zase",
+              "xsampa": "zasE",
+              "morph": "Db--------------",
+              "phoebe": "zase",
+              "token": "zase",
+              "lemma": "zase"
+            },
+            {
+              "token_lc": "umen\u0161uje",
+              "xsampa": "umEnSujE",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "umenSuje",
+              "token": "umen\u0161uje",
+              "lemma": "umen\u0161ovat"
+            }
+          ],
+          "rhyme": 7,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "Kde se nect\u00ed tv\u00e1 sl\u00e1va,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "kde",
+              "xsampa": "gdE",
+              "morph": "Db--------------",
+              "phoebe": "gde",
+              "token": "Kde",
+              "lemma": "kde"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "nect\u00ed",
+              "xsampa": "nEt_sci:",
+              "morph": "VB-S---3P-NA---I",
+              "phoebe": "necTI",
+              "token": "nect\u00ed",
+              "lemma": "ct\u00edt"
+            },
+            {
+              "token_lc": "tv\u00e1",
+              "xsampa": "tva:",
+              "morph": "PSFS1-S2------1-",
+              "phoebe": "tvA",
+              "token": "tv\u00e1",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "sl\u00e1va",
+              "xsampa": "sla:va",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "slAva",
+              "token": "sl\u00e1va",
+              "lemma": "sl\u00e1va"
+            }
+          ],
+          "rhyme": 10,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010010"
+        },
+        {
+          "text": "V\u00edra a ctnost p\u0159est\u00e1v\u00e1,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "v\u00edra",
+              "xsampa": "vi:ra",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "vIra",
+              "token": "V\u00edra",
+              "lemma": "v\u00edra"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "ctnost",
+              "xsampa": "t_stnost",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "ctnost",
+              "token": "ctnost",
+              "lemma": "ctnost"
+            },
+            {
+              "token_lc": "p\u0159est\u00e1v\u00e1",
+              "xsampa": "pP\\Esta:va:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "pRestAvA",
+              "token": "p\u0159est\u00e1v\u00e1",
+              "lemma": "p\u0159est\u00e1vat"
+            }
+          ],
+          "rhyme": 10,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001100"
+        },
+        {
+          "text": "Tam svou sl\u00e1vu nezjevuje\u0161,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "tam",
+              "xsampa": "tam",
+              "morph": "Db--------------",
+              "phoebe": "tam",
+              "token": "Tam",
+              "lemma": "tam"
+            },
+            {
+              "token_lc": "svou",
+              "xsampa": "svo_u",
+              "morph": "P8FS4---------1-",
+              "phoebe": "sv0",
+              "token": "svou",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "sl\u00e1vu",
+              "xsampa": "sla:vu",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "slAvu",
+              "token": "sl\u00e1vu",
+              "lemma": "sl\u00e1va"
+            },
+            {
+              "token_lc": "nezjevuje\u0161",
+              "xsampa": "nEzjEvujES",
+              "morph": "VB-S---2P-NA---I",
+              "phoebe": "nezjevujeS",
+              "token": "nezjevuje\u0161",
+              "lemma": "zjevovat"
+            }
+          ],
+          "rhyme": 11,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "00101000"
+        },
+        {
+          "text": "Y sv\u00fdch dar\u016f umen\u0161uje\u0161.",
+          "punct": {
+            "4": "."
+          },
+          "words": [
+            {
+              "token_lc": "y",
+              "xsampa": "I",
+              "morph": "NN------------8-",
+              "phoebe": "i",
+              "token": "Y",
+              "lemma": "Y"
+            },
+            {
+              "token_lc": "sv\u00fdch",
+              "xsampa": "svi:x",
+              "morph": "P8IP2-----------",
+              "phoebe": "svIx",
+              "token": "sv\u00fdch",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "dar\u016f",
+              "xsampa": "daru:",
+              "morph": "NNIP2-----A-----",
+              "phoebe": "darU",
+              "token": "dar\u016f",
+              "lemma": "dar"
+            },
+            {
+              "token_lc": "umen\u0161uje\u0161",
+              "xsampa": "umEnSujES",
+              "morph": "VB-S---2P-AA---I",
+              "phoebe": "umenSujeS",
+              "token": "umen\u0161uje\u0161",
+              "lemma": "umen\u0161ovat"
+            }
+          ],
+          "rhyme": 11,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101000"
+        }
+      ],
+      [
+        {
+          "text": "SLAVU svou jsy ohl\u00e1syl",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "slavu",
+              "xsampa": "slavu",
+              "morph": "X24-------------",
+              "phoebe": "slavu",
+              "token": "SLAVU",
+              "lemma": "SLAVU"
+            },
+            {
+              "token_lc": "svou",
+              "xsampa": "svo_u",
+              "morph": "P8FS4---------1-",
+              "phoebe": "sv0",
+              "token": "svou",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "jsy",
+              "xsampa": "jsI",
+              "morph": "X24-------------",
+              "phoebe": "jsi",
+              "token": "jsy",
+              "lemma": "jsy"
+            },
+            {
+              "token_lc": "ohl\u00e1syl",
+              "xsampa": "oh\\la:sIl",
+              "morph": "X24-------------",
+              "phoebe": "ohlAsil",
+              "token": "ohl\u00e1syl",
+              "lemma": "ohl\u00e1syl"
+            }
+          ],
+          "rhyme": 12,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "P\u0159ed l\u00e9ty v zemi na\u0161i,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159ed",
+              "xsampa": "pP\\Ed",
+              "morph": "RR--7-----------",
+              "phoebe": "pRed",
+              "token": "P\u0159ed",
+              "lemma": "p\u0159ed"
+            },
+            {
+              "token_lc": "l\u00e9ty",
+              "xsampa": "lE:tI",
+              "morph": "NNNP7-----A---2-",
+              "phoebe": "lEti",
+              "token": "l\u00e9ty",
+              "lemma": "rok"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "zemi",
+              "xsampa": "zEmI",
+              "morph": "NNFS6-----A-----",
+              "phoebe": "zemi",
+              "token": "zemi",
+              "lemma": "zem\u011b"
+            },
+            {
+              "token_lc": "na\u0161i",
+              "xsampa": "naSI",
+              "morph": "PSMP1-P1--------",
+              "phoebe": "naSi",
+              "token": "na\u0161i",
+              "lemma": "n\u00e1\u0161"
+            }
+          ],
+          "rhyme": 13,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001010"
+        },
+        {
+          "text": "Kdy\u017e jsy v n\u00ed st\u0159\u00edbra nasyl,",
+          "punct": {
+            "6": ","
+          },
+          "words": [
+            {
+              "token_lc": "kdy\u017e",
+              "xsampa": "gdIS",
+              "morph": "J,--------------",
+              "phoebe": "gdiS",
+              "token": "Kdy\u017e",
+              "lemma": "kdy\u017e"
+            },
+            {
+              "token_lc": "jsy",
+              "xsampa": "jsI",
+              "morph": "X24-------------",
+              "phoebe": "jsi",
+              "token": "jsy",
+              "lemma": "jsy"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "n\u00ed",
+              "xsampa": "Ji:",
+              "morph": "P5FS6--3--------",
+              "phoebe": "NI",
+              "token": "n\u00ed",
+              "lemma": "on"
+            },
+            {
+              "token_lc": "st\u0159\u00edbra",
+              "xsampa": "stP\\i:bra",
+              "morph": "NNNP1-----A-----",
+              "phoebe": "stRIbra",
+              "token": "st\u0159\u00edbra",
+              "lemma": "st\u0159\u00edbro"
+            },
+            {
+              "token_lc": "nasyl",
+              "xsampa": "nasIl",
+              "morph": "X24-------------",
+              "phoebe": "nasil",
+              "token": "nasyl",
+              "lemma": "nasyl"
+            }
+          ],
+          "rhyme": 12,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0001010"
+        },
+        {
+          "text": "\u017de rostlo jako klasy:",
+          "punct": {
+            "4": ":"
+          },
+          "words": [
+            {
+              "token_lc": "\u017ee",
+              "xsampa": "ZE",
+              "morph": "J,--------------",
+              "phoebe": "Ze",
+              "token": "\u017de",
+              "lemma": "\u017ee"
+            },
+            {
+              "token_lc": "rostlo",
+              "xsampa": "rostlo",
+              "morph": "VpNS---3R-AA---I",
+              "phoebe": "rostlo",
+              "token": "rostlo",
+              "lemma": "r\u016fst"
+            },
+            {
+              "token_lc": "jako",
+              "xsampa": "jako",
+              "morph": "J,--------------",
+              "phoebe": "jako",
+              "token": "jako",
+              "lemma": "jako"
+            },
+            {
+              "token_lc": "klasy",
+              "xsampa": "klasI",
+              "morph": "NNIP1-----A-----",
+              "phoebe": "klasi",
+              "token": "klasy",
+              "lemma": "klas"
+            }
+          ],
+          "rhyme": 13,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Nim jsy n\u00e1rod oslavil,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "nim",
+              "xsampa": "JIm",
+              "morph": "P5IP3--3--------",
+              "phoebe": "Nim",
+              "token": "Nim",
+              "lemma": "oni"
+            },
+            {
+              "token_lc": "jsy",
+              "xsampa": "jsI",
+              "morph": "X24-------------",
+              "phoebe": "jsi",
+              "token": "jsy",
+              "lemma": "jsy"
+            },
+            {
+              "token_lc": "n\u00e1rod",
+              "xsampa": "na:rot",
+              "morph": "NNIS1-----A-----",
+              "phoebe": "nArot",
+              "token": "n\u00e1rod",
+              "lemma": "n\u00e1rod"
+            },
+            {
+              "token_lc": "oslavil",
+              "xsampa": "oslavIl",
+              "morph": "VpIS---3R-AA---P",
+              "phoebe": "oslavil",
+              "token": "oslavil",
+              "lemma": "oslavit"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010100"
+        },
+        {
+          "text": "Jen\u017e tebe ctil a chv\u00e1lil,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "jen\u017e",
+              "xsampa": "jEnS",
+              "morph": "PJIS1-----------",
+              "phoebe": "jenS",
+              "token": "Jen\u017e",
+              "lemma": "jen\u017e"
+            },
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "ctil",
+              "xsampa": "t_scIl",
+              "morph": "VpMS---3R-AA---I",
+              "phoebe": "cTil",
+              "token": "ctil",
+              "lemma": "ct\u00edt"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "chv\u00e1lil",
+              "xsampa": "xva:lIl",
+              "morph": "VpMS---3R-AA---I",
+              "phoebe": "xvAlil",
+              "token": "chv\u00e1lil",
+              "lemma": "chv\u00e1lit"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "A kdy\u017e p\u0159estal tebe ct\u00edti,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "kdy\u017e",
+              "xsampa": "gdIS",
+              "morph": "J,--------------",
+              "phoebe": "gdiS",
+              "token": "kdy\u017e",
+              "lemma": "kdy\u017e"
+            },
+            {
+              "token_lc": "p\u0159estal",
+              "xsampa": "pP\\Estal",
+              "morph": "VpMS---3R-AA---P",
+              "phoebe": "pRestal",
+              "token": "p\u0159estal",
+              "lemma": "p\u0159estat"
+            },
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "ct\u00edti",
+              "xsampa": "t_sci:cI",
+              "morph": "Vf--------A---2I",
+              "phoebe": "cTITi",
+              "token": "ct\u00edti",
+              "lemma": "ct\u00edt"
+            }
+          ],
+          "rhyme": 14,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101010"
+        },
+        {
+          "text": "R\u00e1\u010dils v\u0161eho umen\u0161iti.",
+          "punct": {
+            "3": "."
+          },
+          "words": [
+            {
+              "token_lc": "r\u00e1\u010dils",
+              "xsampa": "ra:t_SIls",
+              "morph": "VpMS---2R-AA---I",
+              "phoebe": "rACils",
+              "token": "R\u00e1\u010dils",
+              "lemma": "r\u00e1\u010dit"
+            },
+            {
+              "token_lc": "v\u0161eho",
+              "xsampa": "fSEh\\o",
+              "morph": "PLNS2-----------",
+              "phoebe": "fSeho",
+              "token": "v\u0161eho",
+              "lemma": "v\u0161echen"
+            },
+            {
+              "token_lc": "umen\u0161iti",
+              "xsampa": "umEnSIcI",
+              "morph": "Vf--------A---2P",
+              "phoebe": "umenSiTi",
+              "token": "umen\u0161iti",
+              "lemma": "umen\u0161it"
+            }
+          ],
+          "rhyme": 14,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101000"
+        }
+      ],
+      [
+        {
+          "text": "Tu st\u0159\u00edbra umen\u0161enost",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "tu",
+              "xsampa": "tu",
+              "morph": "Db------------1-",
+              "phoebe": "tu",
+              "token": "Tu",
+              "lemma": "tu"
+            },
+            {
+              "token_lc": "st\u0159\u00edbra",
+              "xsampa": "stP\\i:bra",
+              "morph": "NNNS2-----A-----",
+              "phoebe": "stRIbra",
+              "token": "st\u0159\u00edbra",
+              "lemma": "st\u0159\u00edbro"
+            },
+            {
+              "token_lc": "umen\u0161enost",
+              "xsampa": "umEnSEnost",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "umenSenost",
+              "token": "umen\u0161enost",
+              "lemma": "umen\u0161enost"
+            }
+          ],
+          "rhyme": 15,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "A\u017e dosav\u00e1d vidime,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "a\u017e",
+              "xsampa": "aS",
+              "morph": "TT--------------",
+              "phoebe": "aS",
+              "token": "A\u017e",
+              "lemma": "a\u017e"
+            },
+            {
+              "token_lc": "dosav\u00e1d",
+              "xsampa": "dosava:t",
+              "morph": "X24-------------",
+              "phoebe": "dosavAt",
+              "token": "dosav\u00e1d",
+              "lemma": "dosav\u00e1d"
+            },
+            {
+              "token_lc": "vidime",
+              "xsampa": "vIJ\\ImE",
+              "morph": "X24-------------",
+              "phoebe": "viDime",
+              "token": "vidime",
+              "lemma": "vidime"
+            }
+          ],
+          "rhyme": 16,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0100100"
+        },
+        {
+          "text": "Proto\u017e za rozmno\u017eenost",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "proto\u017e",
+              "xsampa": "protoS",
+              "morph": "J^------------2-",
+              "phoebe": "protoS",
+              "token": "Proto\u017e",
+              "lemma": "proto"
+            },
+            {
+              "token_lc": "za",
+              "xsampa": "za",
+              "morph": "RR--4-----------",
+              "phoebe": "za",
+              "token": "za",
+              "lemma": "za"
+            },
+            {
+              "token_lc": "rozmno\u017eenost",
+              "xsampa": "rozmnoZEnost",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "rozmnoZenost",
+              "token": "rozmno\u017eenost",
+              "lemma": "rozmno\u017eenost"
+            }
+          ],
+          "rhyme": 15,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010000"
+        },
+        {
+          "text": "Tebe Pane prosyme!",
+          "punct": {
+            "3": "!"
+          },
+          "words": [
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "Tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "pane",
+              "xsampa": "panE",
+              "morph": "TT--------------",
+              "phoebe": "pane",
+              "token": "Pane",
+              "lemma": "pane"
+            },
+            {
+              "token_lc": "prosyme",
+              "xsampa": "prosImE",
+              "morph": "X24-------------",
+              "phoebe": "prosime",
+              "token": "prosyme",
+              "lemma": "prosyme"
+            }
+          ],
+          "rhyme": 16,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Neb m\u00e1\u0161 v\u017edy v\u0161eho dosti,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "neb",
+              "xsampa": "nEp",
+              "morph": "J^------------2-",
+              "phoebe": "nep",
+              "token": "Neb",
+              "lemma": "nebo"
+            },
+            {
+              "token_lc": "m\u00e1\u0161",
+              "xsampa": "ma:S",
+              "morph": "VB-S---2P-AA---I",
+              "phoebe": "mAS",
+              "token": "m\u00e1\u0161",
+              "lemma": "m\u00edt"
+            },
+            {
+              "token_lc": "v\u017edy",
+              "xsampa": "vZdI",
+              "morph": "Db--------A-----",
+              "phoebe": "vZdi",
+              "token": "v\u017edy",
+              "lemma": "v\u017edy"
+            },
+            {
+              "token_lc": "v\u0161eho",
+              "xsampa": "fSEh\\o",
+              "morph": "PLNS2-----------",
+              "phoebe": "fSeho",
+              "token": "v\u0161eho",
+              "lemma": "v\u0161echen"
+            },
+            {
+              "token_lc": "dosti",
+              "xsampa": "doscI",
+              "morph": "Dg-------1A---3-",
+              "phoebe": "dosTi",
+              "token": "dosti",
+              "lemma": "dost"
+            }
+          ],
+          "rhyme": 17,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Sklo\u0148 se k n\u00e1m svou milosti,",
+          "punct": {
+            "6": ","
+          },
+          "words": [
+            {
+              "token_lc": "sklo\u0148",
+              "xsampa": "skloJ",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "skloN",
+              "token": "Sklo\u0148",
+              "lemma": "sklonit"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "k",
+              "xsampa": "k",
+              "morph": "RR--3-----------",
+              "phoebe": "k",
+              "token": "k",
+              "lemma": "k"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "svou",
+              "xsampa": "svo_u",
+              "morph": "P8FS7---------1-",
+              "phoebe": "sv0",
+              "token": "svou",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "milosti",
+              "xsampa": "mIloscI",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "milosTi",
+              "token": "milosti",
+              "lemma": "milost"
+            }
+          ],
+          "rhyme": 17,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "A po\u017eehnej na\u0161e hory,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "po\u017eehnej",
+              "xsampa": "poZEh\\nEj",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "poZehnej",
+              "token": "po\u017eehnej",
+              "lemma": "po\u017eehnat"
+            },
+            {
+              "token_lc": "na\u0161e",
+              "xsampa": "naSE",
+              "morph": "PSFP4-P1--------",
+              "phoebe": "naSe",
+              "token": "na\u0161e",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "hory",
+              "xsampa": "h\\orI",
+              "morph": "NNFP4-----A-----",
+              "phoebe": "hori",
+              "token": "hory",
+              "lemma": "hora"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01001010"
+        },
+        {
+          "text": "U\u010di\u0148 n\u00e1m odplatn\u00e9 \u0161toli. a)",
+          "punct": {
+            "4": ")"
+          },
+          "words": [
+            {
+              "token_lc": "u\u010di\u0148",
+              "xsampa": "ut_SIJ",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "uCiN",
+              "token": "U\u010di\u0148",
+              "lemma": "u\u010dinit"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "odplatn\u00e9",
+              "xsampa": "otplatnE:",
+              "morph": "X24-------------",
+              "phoebe": "otplatnE",
+              "token": "odplatn\u00e9",
+              "lemma": "odplatn\u00e9"
+            },
+            {
+              "token_lc": "\u0161toli",
+              "xsampa": "StolI",
+              "morph": "X24-------------",
+              "phoebe": "Stoli",
+              "token": "\u0161toli",
+              "lemma": "\u0161toli"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10010010"
+        }
+      ],
+      [
+        {
+          "text": "Velice l\u00edtujeme,",
+          "punct": {
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "velice",
+              "xsampa": "vElIt_sE",
+              "morph": "Db--------------",
+              "phoebe": "velice",
+              "token": "Velice",
+              "lemma": "velice"
+            },
+            {
+              "token_lc": "l\u00edtujeme",
+              "xsampa": "li:tujEmE",
+              "morph": "X24-------------",
+              "phoebe": "lItujeme",
+              "token": "l\u00edtujeme",
+              "lemma": "l\u00edtujeme"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "\u017de jsme tebe hn\u011bvali,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "\u017ee",
+              "xsampa": "ZE",
+              "morph": "J,--------------",
+              "phoebe": "Ze",
+              "token": "\u017de",
+              "lemma": "\u017ee"
+            },
+            {
+              "token_lc": "jsme",
+              "xsampa": "jsmE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "jsme",
+              "token": "jsme",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S2--2--------",
+              "phoebe": "tebe",
+              "token": "tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "hn\u011bvali",
+              "xsampa": "h\\JEvalI",
+              "morph": "VpMP---1R-AA---I",
+              "phoebe": "hNevali",
+              "token": "hn\u011bvali",
+              "lemma": "hn\u011bvat"
+            }
+          ],
+          "rhyme": 18,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010100"
+        },
+        {
+          "text": "Osobn\u011b y ve\u0159ejn\u011b",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "osobn\u011b",
+              "xsampa": "osobJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "osobNe",
+              "token": "Osobn\u011b",
+              "lemma": "osobn\u011b"
+            },
+            {
+              "token_lc": "y",
+              "xsampa": "I",
+              "morph": "NN------------8-",
+              "phoebe": "i",
+              "token": "y",
+              "lemma": "y"
+            },
+            {
+              "token_lc": "ve\u0159ejn\u011b",
+              "xsampa": "vEP\\EjJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "veRejNe",
+              "token": "ve\u0159ejn\u011b",
+              "lemma": "ve\u0159ejn\u011b"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001100"
+        },
+        {
+          "text": "Na tvou vuli nedbali:",
+          "punct": {
+            "4": ":"
+          },
+          "words": [
+            {
+              "token_lc": "na",
+              "xsampa": "na",
+              "morph": "RR--4-----------",
+              "phoebe": "na",
+              "token": "Na",
+              "lemma": "na"
+            },
+            {
+              "token_lc": "tvou",
+              "xsampa": "tvo_u",
+              "morph": "PSFS4-S2------1-",
+              "phoebe": "tv0",
+              "token": "tvou",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "vuli",
+              "xsampa": "vulI",
+              "morph": "X24-------------",
+              "phoebe": "vuli",
+              "token": "vuli",
+              "lemma": "vuli"
+            },
+            {
+              "token_lc": "nedbali",
+              "xsampa": "nEdbalI",
+              "morph": "VpMP---1R-NA---I",
+              "phoebe": "nedbali",
+              "token": "nedbali",
+              "lemma": "db\u00e1t"
+            }
+          ],
+          "rhyme": 18,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "P\u0159estali jsme ct\u00edt tebe,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159estali",
+              "xsampa": "pP\\EstalI",
+              "morph": "VpMP---1R-AA---P",
+              "phoebe": "pRestali",
+              "token": "P\u0159estali",
+              "lemma": "p\u0159estat"
+            },
+            {
+              "token_lc": "jsme",
+              "xsampa": "jsmE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "jsme",
+              "token": "jsme",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "ct\u00edt",
+              "xsampa": "t_sci:t",
+              "morph": "Vf--------A----I",
+              "phoebe": "cTIt",
+              "token": "ct\u00edt",
+              "lemma": "ct\u00edt"
+            },
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "tebe",
+              "lemma": "ty"
+            }
+          ],
+          "rhyme": 19,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000110"
+        },
+        {
+          "text": "Cht\u00edce mit \u010dest pro sebe,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "cht\u00edce",
+              "xsampa": "xci:t_sE",
+              "morph": "VeIP------A----I",
+              "phoebe": "xTIce",
+              "token": "Cht\u00edce",
+              "lemma": "cht\u00edt"
+            },
+            {
+              "token_lc": "mit",
+              "xsampa": "mIt",
+              "morph": "XX--------------",
+              "phoebe": "mit",
+              "token": "mit",
+              "lemma": "mit"
+            },
+            {
+              "token_lc": "\u010dest",
+              "xsampa": "t_SEst",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "Cest",
+              "token": "\u010dest",
+              "lemma": "\u010dest"
+            },
+            {
+              "token_lc": "pro",
+              "xsampa": "pro",
+              "morph": "RR--4-----------",
+              "phoebe": "pro",
+              "token": "pro",
+              "lemma": "pro"
+            },
+            {
+              "token_lc": "sebe",
+              "xsampa": "sEbE",
+              "morph": "P6-X4-----------",
+              "phoebe": "sebe",
+              "token": "sebe",
+              "lemma": "se"
+            }
+          ],
+          "rhyme": 19,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001100"
+        },
+        {
+          "text": "Zavrhli l\u00e1sky spole\u010dnost,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "zavrhli",
+              "xsampa": "zavr=h\\lI",
+              "morph": "VpMP---3R-AA--1P",
+              "phoebe": "zavQhli",
+              "token": "Zavrhli",
+              "lemma": "zavrhnout"
+            },
+            {
+              "token_lc": "l\u00e1sky",
+              "xsampa": "la:skI",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "lAski",
+              "token": "l\u00e1sky",
+              "lemma": "l\u00e1ska"
+            },
+            {
+              "token_lc": "spole\u010dnost",
+              "xsampa": "spolEt_Snost",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "spoleCnost",
+              "token": "spole\u010dnost",
+              "lemma": "spole\u010dnost"
+            }
+          ],
+          "rhyme": 20,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10010100"
+        },
+        {
+          "text": "Tob\u011b \u010dinili nevd\u011b\u010dnost.",
+          "punct": {
+            "3": "."
+          },
+          "words": [
+            {
+              "token_lc": "tob\u011b",
+              "xsampa": "tobjE",
+              "morph": "PP-S3--2--------",
+              "phoebe": "tobje",
+              "token": "Tob\u011b",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "\u010dinili",
+              "xsampa": "t_SIJIlI",
+              "morph": "VpMP---3R-AA---I",
+              "phoebe": "CiNili",
+              "token": "\u010dinili",
+              "lemma": "\u010dinit"
+            },
+            {
+              "token_lc": "nevd\u011b\u010dnost",
+              "xsampa": "nEvJ\\Et_Snost",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "nevDeCnost",
+              "token": "nevd\u011b\u010dnost",
+              "lemma": "nevd\u011b\u010dnost"
+            }
+          ],
+          "rhyme": 20,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10100100"
+        }
+      ],
+      [
+        {
+          "text": "OUmysli srde\u010dn\u00fdmi",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "oumysli",
+              "xsampa": "o_umIslI",
+              "morph": "X24-------------",
+              "phoebe": "0misli",
+              "token": "OUmysli",
+              "lemma": "OUmysli"
+            },
+            {
+              "token_lc": "srde\u010dn\u00fdmi",
+              "xsampa": "sr=dEt_Sni:mI",
+              "morph": "AAIP7----1A-----",
+              "phoebe": "sQdeCnImi",
+              "token": "srde\u010dn\u00fdmi",
+              "lemma": "srde\u010dn\u00fd"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "Bo\u017ee k tob\u011b vol\u00e1me!",
+          "punct": {
+            "4": "!"
+          },
+          "words": [
+            {
+              "token_lc": "bo\u017ee",
+              "xsampa": "boZE",
+              "morph": "NNMS5-----A-----",
+              "phoebe": "boZe",
+              "token": "Bo\u017ee",
+              "lemma": "b\u016fh"
+            },
+            {
+              "token_lc": "k",
+              "xsampa": "k",
+              "morph": "RR--3-----------",
+              "phoebe": "k",
+              "token": "k",
+              "lemma": "k"
+            },
+            {
+              "token_lc": "tob\u011b",
+              "xsampa": "tobjE",
+              "morph": "PP-S3--2--------",
+              "phoebe": "tobje",
+              "token": "tob\u011b",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "vol\u00e1me",
+              "xsampa": "vola:mE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "volAme",
+              "token": "vol\u00e1me",
+              "lemma": "volat"
+            }
+          ],
+          "rhyme": 21,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Odpus\u0165 n\u00e1m na\u0161e vyny,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "odpus\u0165",
+              "xsampa": "otpusc",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "otpusT",
+              "token": "Odpus\u0165",
+              "lemma": "odpustit"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "na\u0161e",
+              "xsampa": "naSE",
+              "morph": "PSMP4-P1--------",
+              "phoebe": "naSe",
+              "token": "na\u0161e",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "vyny",
+              "xsampa": "vInI",
+              "morph": "X24-------------",
+              "phoebe": "vini",
+              "token": "vyny",
+              "lemma": "vyny"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001010"
+        },
+        {
+          "text": "Odpus\u0165 Pane! \u017e\u00e1d\u00e1me:",
+          "punct": {
+            "3": ":",
+            "2": "!"
+          },
+          "words": [
+            {
+              "token_lc": "odpus\u0165",
+              "xsampa": "otpusc",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "otpusT",
+              "token": "Odpus\u0165",
+              "lemma": "odpustit"
+            },
+            {
+              "token_lc": "pane",
+              "xsampa": "panE",
+              "morph": "TT--------------",
+              "phoebe": "pane",
+              "token": "Pane",
+              "lemma": "pane"
+            },
+            {
+              "token_lc": "\u017e\u00e1d\u00e1me",
+              "xsampa": "Za:da:mE",
+              "morph": "VB-P---1P-AA---I",
+              "phoebe": "ZAdAme",
+              "token": "\u017e\u00e1d\u00e1me",
+              "lemma": "\u017e\u00e1dat"
+            }
+          ],
+          "rhyme": 21,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "O smiluj se nad n\u00e1mi!",
+          "punct": {
+            "5": "!"
+          },
+          "words": [
+            {
+              "token_lc": "o",
+              "xsampa": "o",
+              "morph": "RR--4-----------",
+              "phoebe": "o",
+              "token": "O",
+              "lemma": "o"
+            },
+            {
+              "token_lc": "smiluj",
+              "xsampa": "smIluj",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "smiluj",
+              "token": "smiluj",
+              "lemma": "smilovat"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "nad",
+              "xsampa": "nad",
+              "morph": "RR--7-----------",
+              "phoebe": "nad",
+              "token": "nad",
+              "lemma": "nad"
+            },
+            {
+              "token_lc": "n\u00e1mi",
+              "xsampa": "na:mI",
+              "morph": "PP-P7--1--------",
+              "phoebe": "nAmi",
+              "token": "n\u00e1mi",
+              "lemma": "my"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "A ud\u011bl po\u017eehn\u00e1n\u00ed",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "ud\u011bl",
+              "xsampa": "uJ\\El",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "uDel",
+              "token": "ud\u011bl",
+              "lemma": "ud\u011blit"
+            },
+            {
+              "token_lc": "po\u017eehn\u00e1n\u00ed",
+              "xsampa": "poZEh\\na:Ji:",
+              "morph": "NNNS4-----A-----",
+              "phoebe": "poZehnANI",
+              "token": "po\u017eehn\u00e1n\u00ed",
+              "lemma": "po\u017eehn\u00e1n\u00ed"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "Na\u0161im hor\u00e1m a dolin\u00e1m,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "na\u0161im",
+              "xsampa": "naSIm",
+              "morph": "PSFP3-P1--------",
+              "phoebe": "naSim",
+              "token": "Na\u0161im",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "hor\u00e1m",
+              "xsampa": "h\\ora:m",
+              "morph": "NNFP3-----A-----",
+              "phoebe": "horAm",
+              "token": "hor\u00e1m",
+              "lemma": "hora"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "dolin\u00e1m",
+              "xsampa": "dolIna:m",
+              "morph": "NNFP3-----A-----",
+              "phoebe": "dolinAm",
+              "token": "dolin\u00e1m",
+              "lemma": "dolina"
+            }
+          ],
+          "rhyme": 22,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10100100"
+        },
+        {
+          "text": "Star\u00fdm, y nov\u00fdm hlubin\u00e1m.",
+          "punct": {
+            "4": ".",
+            "1": ","
+          },
+          "words": [
+            {
+              "token_lc": "star\u00fdm",
+              "xsampa": "stari:m",
+              "morph": "NNMS7-----A-----",
+              "phoebe": "starIm",
+              "token": "Star\u00fdm",
+              "lemma": "star\u00fd"
+            },
+            {
+              "token_lc": "y",
+              "xsampa": "I",
+              "morph": "NN------------8-",
+              "phoebe": "i",
+              "token": "y",
+              "lemma": "y"
+            },
+            {
+              "token_lc": "nov\u00fdm",
+              "xsampa": "novi:m",
+              "morph": "AAFP3----1A-----",
+              "phoebe": "novIm",
+              "token": "nov\u00fdm",
+              "lemma": "nov\u00fd"
+            },
+            {
+              "token_lc": "hlubin\u00e1m",
+              "xsampa": "h\\lubIna:m",
+              "morph": "NNFP3-----A-----",
+              "phoebe": "hlubinAm",
+              "token": "hlubin\u00e1m",
+              "lemma": "hlubina"
+            }
+          ],
+          "rhyme": 22,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10110100"
+        }
+      ],
+      [
+        {
+          "text": "OBDA\u0158 dobr\u00fdmi kovy",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "obda\u0159",
+              "xsampa": "obdaP\\",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "obdaR",
+              "token": "OBDA\u0158",
+              "lemma": "obda\u0159it"
+            },
+            {
+              "token_lc": "dobr\u00fdmi",
+              "xsampa": "dobri:mI",
+              "morph": "AAIP7----1A-----",
+              "phoebe": "dobrImi",
+              "token": "dobr\u00fdmi",
+              "lemma": "dobr\u00fd"
+            },
+            {
+              "token_lc": "kovy",
+              "xsampa": "kovI",
+              "morph": "NNIP7-----A-----",
+              "phoebe": "kovi",
+              "token": "kovy",
+              "lemma": "kov"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010010"
+        },
+        {
+          "text": "Rudy nyn\u00ed zjeven\u00e9,",
+          "punct": {
+            "3": ",",
+            "4": ")"
+          },
+          "words": [
+            {
+              "token_lc": "rudy",
+              "xsampa": "rudI",
+              "morph": "NNFP1-----A-----",
+              "phoebe": "rudi",
+              "token": "Rudy",
+              "lemma": "Ruda"
+            },
+            {
+              "token_lc": "nyn\u00ed",
+              "xsampa": "nIJi:",
+              "morph": "Db--------------",
+              "phoebe": "niNI",
+              "token": "nyn\u00ed",
+              "lemma": "nyn\u00ed"
+            },
+            {
+              "token_lc": "zjeven\u00e9",
+              "xsampa": "zjEvEnE:",
+              "morph": "AAFP1----1A-----",
+              "phoebe": "zjevenE",
+              "token": "zjeven\u00e9",
+              "lemma": "zjeven\u00fd"
+            }
+          ],
+          "rhyme": 23,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "A vysu\u0161 star\u00e9 doli",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "vysu\u0161",
+              "xsampa": "vIsuS",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "visuS",
+              "token": "vysu\u0161",
+              "lemma": "vysu\u0161it"
+            },
+            {
+              "token_lc": "star\u00e9",
+              "xsampa": "starE:",
+              "morph": "NNMP4-----A-----",
+              "phoebe": "starE",
+              "token": "star\u00e9",
+              "lemma": "star\u00fd"
+            },
+            {
+              "token_lc": "doli",
+              "xsampa": "dolI",
+              "morph": "X24-------------",
+              "phoebe": "doli",
+              "token": "doli",
+              "lemma": "doli"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Vodami zap\u011bn\u011bn\u00e9:",
+          "punct": {
+            "2": ":"
+          },
+          "words": [
+            {
+              "token_lc": "vodami",
+              "xsampa": "vodamI",
+              "morph": "NNFP7-----A-----",
+              "phoebe": "vodami",
+              "token": "Vodami",
+              "lemma": "voda"
+            },
+            {
+              "token_lc": "zap\u011bn\u011bn\u00e9",
+              "xsampa": "zapjEJEnE:",
+              "morph": "AANS1----1A-----",
+              "phoebe": "zapjeNenE",
+              "token": "zap\u011bn\u011bn\u00e9",
+              "lemma": "zap\u011bn\u011bn\u00fd"
+            }
+          ],
+          "rhyme": 23,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001000"
+        },
+        {
+          "text": "A\u0165 se zase rozmah\u00e1",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "a\u0165",
+              "xsampa": "ac",
+              "morph": "J^--------------",
+              "phoebe": "aT",
+              "token": "A\u0165",
+              "lemma": "a\u0165"
+            },
+            {
+              "token_lc": "se",
+              "xsampa": "sE",
+              "morph": "P7-X4-----------",
+              "phoebe": "se",
+              "token": "se",
+              "lemma": "se"
+            },
+            {
+              "token_lc": "zase",
+              "xsampa": "zasE",
+              "morph": "Db--------------",
+              "phoebe": "zase",
+              "token": "zase",
+              "lemma": "zase"
+            },
+            {
+              "token_lc": "rozmah\u00e1",
+              "xsampa": "rozmah\\a:",
+              "morph": "X24-------------",
+              "phoebe": "rozmahA",
+              "token": "rozmah\u00e1",
+              "lemma": "rozmah\u00e1"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010100"
+        },
+        {
+          "text": "Z tv\u00fdch Bo\u017esk\u00fdch dar\u016f sl\u00e1va,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "z",
+              "xsampa": "s",
+              "morph": "RR--2-----------",
+              "phoebe": "s",
+              "token": "Z",
+              "lemma": "z"
+            },
+            {
+              "token_lc": "tv\u00fdch",
+              "xsampa": "tvi:x",
+              "morph": "PSIP2-S2--------",
+              "phoebe": "tvIx",
+              "token": "tv\u00fdch",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "bo\u017esk\u00fdch",
+              "xsampa": "boSski:x",
+              "morph": "AAIP2----1A-----",
+              "phoebe": "boSskIx",
+              "token": "Bo\u017esk\u00fdch",
+              "lemma": "bo\u017esk\u00fd"
+            },
+            {
+              "token_lc": "dar\u016f",
+              "xsampa": "daru:",
+              "morph": "NNIP2-----A-----",
+              "phoebe": "darU",
+              "token": "dar\u016f",
+              "lemma": "dar"
+            },
+            {
+              "token_lc": "sl\u00e1va",
+              "xsampa": "sla:va",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "slAva",
+              "token": "sl\u00e1va",
+              "lemma": "sl\u00e1va"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "P\u0159ispo\u0159 \u0161tance a) n\u00e1kladn\u00edk\u016fm,",
+          "punct": {
+            "3": ",",
+            "2": ")"
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159ispo\u0159",
+              "xsampa": "pP\\IspoP\\",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "pRispoR",
+              "token": "P\u0159ispo\u0159",
+              "lemma": "p\u0159ispo\u0159it"
+            },
+            {
+              "token_lc": "\u0161tance",
+              "xsampa": "Stant_sE",
+              "morph": "X24-------------",
+              "phoebe": "Stance",
+              "token": "\u0161tance",
+              "lemma": "\u0161tance"
+            },
+            {
+              "token_lc": "n\u00e1kladn\u00edk\u016fm",
+              "xsampa": "na:kladJi:ku:m",
+              "morph": "NNIP3-----A-----",
+              "phoebe": "nAkladNIkUm",
+              "token": "n\u00e1kladn\u00edk\u016fm",
+              "lemma": "n\u00e1kladn\u00edk"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101000"
+        },
+        {
+          "text": "\u017dehnej pr\u00e1ce v\u0161em d\u011bln\u00edk\u016fm.",
+          "punct": {
+            "4": "."
+          },
+          "words": [
+            {
+              "token_lc": "\u017eehnej",
+              "xsampa": "ZEh\\nEj",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "Zehnej",
+              "token": "\u017dehnej",
+              "lemma": "\u017eehnat"
+            },
+            {
+              "token_lc": "pr\u00e1ce",
+              "xsampa": "pra:t_sE",
+              "morph": "NNFS2-----A-----",
+              "phoebe": "prAce",
+              "token": "pr\u00e1ce",
+              "lemma": "pr\u00e1ce"
+            },
+            {
+              "token_lc": "v\u0161em",
+              "xsampa": "fSEm",
+              "morph": "PLMP3-----------",
+              "phoebe": "fSem",
+              "token": "v\u0161em",
+              "lemma": "v\u0161echen"
+            },
+            {
+              "token_lc": "d\u011bln\u00edk\u016fm",
+              "xsampa": "J\\ElJi:ku:m",
+              "morph": "NNMP3-----A-----",
+              "phoebe": "DelNIkUm",
+              "token": "d\u011bln\u00edk\u016fm",
+              "lemma": "d\u011bln\u00edk"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10100100"
+        }
+      ],
+      [
+        {
+          "text": "HOjnost, kterou vid\u011bli",
+          "punct": {
+            "1": ","
+          },
+          "words": [
+            {
+              "token_lc": "hojnost",
+              "xsampa": "h\\ojnost",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "hojnost",
+              "token": "HOjnost",
+              "lemma": "hojnost"
+            },
+            {
+              "token_lc": "kterou",
+              "xsampa": "ktEro_u",
+              "morph": "P4FS4-----------",
+              "phoebe": "kter0",
+              "token": "kterou",
+              "lemma": "kter\u00fd"
+            },
+            {
+              "token_lc": "vid\u011bli",
+              "xsampa": "vIJ\\ElI",
+              "morph": "VpMP---3R-AA---I",
+              "phoebe": "viDeli",
+              "token": "vid\u011bli",
+              "lemma": "vid\u011bt"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "N\u011bkdy na\u0161i p\u0159edkove,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "n\u011bkdy",
+              "xsampa": "JEgdI",
+              "morph": "Db--------------",
+              "phoebe": "Negdi",
+              "token": "N\u011bkdy",
+              "lemma": "n\u011bkdy"
+            },
+            {
+              "token_lc": "na\u0161i",
+              "xsampa": "naSI",
+              "morph": "PSFS4-P1--------",
+              "phoebe": "naSi",
+              "token": "na\u0161i",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "p\u0159edkove",
+              "xsampa": "pP\\EtkovE",
+              "morph": "VB-S---3P-AA---P",
+              "phoebe": "pRetkove",
+              "token": "p\u0159edkove",
+              "lemma": "p\u0159edkovat"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "V zlat\u011b, st\u0159\u00edb\u0159e a m\u011bd\u00ed",
+          "punct": {
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "V",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "zlat\u011b",
+              "xsampa": "zlacE",
+              "morph": "NNNS6-----A---1-",
+              "phoebe": "zlaTe",
+              "token": "zlat\u011b",
+              "lemma": "zlato"
+            },
+            {
+              "token_lc": "st\u0159\u00edb\u0159e",
+              "xsampa": "stP\\i:bP\\E",
+              "morph": "NNNS6-----A---1-",
+              "phoebe": "stRIbRe",
+              "token": "st\u0159\u00edb\u0159e",
+              "lemma": "st\u0159\u00edbro"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "m\u011bd\u00ed",
+              "xsampa": "mJEJ\\i:",
+              "morph": "NNFS7-----A-----",
+              "phoebe": "mNeDI",
+              "token": "m\u011bd\u00ed",
+              "lemma": "m\u011b\u010f"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010010"
+        },
+        {
+          "text": "Ta jest je\u0161t\u011b p\u0159i tob\u011b:",
+          "punct": {
+            "5": ":"
+          },
+          "words": [
+            {
+              "token_lc": "ta",
+              "xsampa": "ta",
+              "morph": "PDFS1-----------",
+              "phoebe": "ta",
+              "token": "Ta",
+              "lemma": "ten"
+            },
+            {
+              "token_lc": "jest",
+              "xsampa": "jEst",
+              "morph": "VB-S---3P-AA--2I",
+              "phoebe": "jest",
+              "token": "jest",
+              "lemma": "b\u00fdt"
+            },
+            {
+              "token_lc": "je\u0161t\u011b",
+              "xsampa": "jEScE",
+              "morph": "Db--------------",
+              "phoebe": "jeSTe",
+              "token": "je\u0161t\u011b",
+              "lemma": "je\u0161t\u011b"
+            },
+            {
+              "token_lc": "p\u0159i",
+              "xsampa": "pP\\I",
+              "morph": "RR--6-----------",
+              "phoebe": "pRi",
+              "token": "p\u0159i",
+              "lemma": "p\u0159i"
+            },
+            {
+              "token_lc": "tob\u011b",
+              "xsampa": "tobjE",
+              "morph": "PP-S6--2--------",
+              "phoebe": "tobje",
+              "token": "tob\u011b",
+              "lemma": "ty"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0010100"
+        },
+        {
+          "text": "Je\u0161t\u011b ruka tv\u00e1 \u017eehn\u00e1,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "je\u0161t\u011b",
+              "xsampa": "jEScE",
+              "morph": "Db--------------",
+              "phoebe": "jeSTe",
+              "token": "Je\u0161t\u011b",
+              "lemma": "je\u0161t\u011b"
+            },
+            {
+              "token_lc": "ruka",
+              "xsampa": "ruka",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "ruka",
+              "token": "ruka",
+              "lemma": "ruka"
+            },
+            {
+              "token_lc": "tv\u00e1",
+              "xsampa": "tva:",
+              "morph": "PSFS1-S2------1-",
+              "phoebe": "tvA",
+              "token": "tv\u00e1",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "\u017eehn\u00e1",
+              "xsampa": "ZEh\\na:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "ZehnA",
+              "token": "\u017eehn\u00e1",
+              "lemma": "\u017eehnat"
+            }
+          ],
+          "rhyme": 24,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010010"
+        },
+        {
+          "text": "Co\u017e rozum lidsk\u00fd nezn\u00e1,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "co\u017e",
+              "xsampa": "t_soS",
+              "morph": "PE--4-----------",
+              "phoebe": "coS",
+              "token": "Co\u017e",
+              "lemma": "co\u017e"
+            },
+            {
+              "token_lc": "rozum",
+              "xsampa": "rozum",
+              "morph": "NNIS1-----A-----",
+              "phoebe": "rozum",
+              "token": "rozum",
+              "lemma": "rozum"
+            },
+            {
+              "token_lc": "lidsk\u00fd",
+              "xsampa": "lItski:",
+              "morph": "AAIS1----1A-----",
+              "phoebe": "litskI",
+              "token": "lidsk\u00fd",
+              "lemma": "lidsk\u00fd"
+            },
+            {
+              "token_lc": "nezn\u00e1",
+              "xsampa": "nEzna:",
+              "morph": "VB-S---3P-NA---I",
+              "phoebe": "neznA",
+              "token": "nezn\u00e1",
+              "lemma": "zn\u00e1t"
+            }
+          ],
+          "rhyme": 24,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Je\u0161t\u011b d\u00e1v\u00e1 milujic\u00fdm,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "je\u0161t\u011b",
+              "xsampa": "jEScE",
+              "morph": "Db--------------",
+              "phoebe": "jeSTe",
+              "token": "Je\u0161t\u011b",
+              "lemma": "je\u0161t\u011b"
+            },
+            {
+              "token_lc": "d\u00e1v\u00e1",
+              "xsampa": "da:va:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "dAvA",
+              "token": "d\u00e1v\u00e1",
+              "lemma": "d\u00e1vat"
+            },
+            {
+              "token_lc": "milujic\u00fdm",
+              "xsampa": "mIlujIt_si:m",
+              "morph": "X24-------------",
+              "phoebe": "milujicIm",
+              "token": "milujic\u00fdm",
+              "lemma": "milujic\u00fdm"
+            }
+          ],
+          "rhyme": 25,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101000"
+        },
+        {
+          "text": "Je\u0161t\u011b \u017eehn\u00e1 pracujic\u00fdm.",
+          "punct": {
+            "3": "."
+          },
+          "words": [
+            {
+              "token_lc": "je\u0161t\u011b",
+              "xsampa": "jEScE",
+              "morph": "Db--------------",
+              "phoebe": "jeSTe",
+              "token": "Je\u0161t\u011b",
+              "lemma": "je\u0161t\u011b"
+            },
+            {
+              "token_lc": "\u017eehn\u00e1",
+              "xsampa": "ZEh\\na:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "ZehnA",
+              "token": "\u017eehn\u00e1",
+              "lemma": "\u017eehnat"
+            },
+            {
+              "token_lc": "pracujic\u00fdm",
+              "xsampa": "prat_sujIt_si:m",
+              "morph": "X24-------------",
+              "phoebe": "pracujicIm",
+              "token": "pracujic\u00fdm",
+              "lemma": "pracujic\u00fdm"
+            }
+          ],
+          "rhyme": 25,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101000"
+        }
+      ],
+      [
+        {
+          "text": "RUdy na\u0161e a k\u00fdzy,",
+          "punct": {
+            "5": ")",
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "rudy",
+              "xsampa": "rudI",
+              "morph": "NNFP1-----A-----",
+              "phoebe": "rudi",
+              "token": "RUdy",
+              "lemma": "ruda"
+            },
+            {
+              "token_lc": "na\u0161e",
+              "xsampa": "naSE",
+              "morph": "PSFS1-P1--------",
+              "phoebe": "naSe",
+              "token": "na\u0161e",
+              "lemma": "n\u00e1\u0161"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "k\u00fdzy",
+              "xsampa": "ki:zI",
+              "morph": "X24-------------",
+              "phoebe": "kIzi",
+              "token": "k\u00fdzy",
+              "lemma": "k\u00fdzy"
+            }
+          ],
+          "rhyme": 26,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010010"
+        },
+        {
+          "text": "Kter\u00e9 nyn\u00ed t\u011b\u017eime,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "kter\u00e9",
+              "xsampa": "ktErE:",
+              "morph": "P4NS1-----------",
+              "phoebe": "kterE",
+              "token": "Kter\u00e9",
+              "lemma": "kter\u00fd"
+            },
+            {
+              "token_lc": "nyn\u00ed",
+              "xsampa": "nIJi:",
+              "morph": "Db--------------",
+              "phoebe": "niNI",
+              "token": "nyn\u00ed",
+              "lemma": "nyn\u00ed"
+            },
+            {
+              "token_lc": "t\u011b\u017eime",
+              "xsampa": "cEZImE",
+              "morph": "X24-------------",
+              "phoebe": "TeZime",
+              "token": "t\u011b\u017eime",
+              "lemma": "t\u011b\u017eime"
+            }
+          ],
+          "rhyme": 27,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "U\u010di\u0148, a\u0165 n\u00e1m nem\u00edzy,",
+          "punct": {
+            "4": ",",
+            "1": ","
+          },
+          "words": [
+            {
+              "token_lc": "u\u010di\u0148",
+              "xsampa": "ut_SIJ",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "uCiN",
+              "token": "U\u010di\u0148",
+              "lemma": "u\u010dinit"
+            },
+            {
+              "token_lc": "a\u0165",
+              "xsampa": "ac",
+              "morph": "J^--------------",
+              "phoebe": "aT",
+              "token": "a\u0165",
+              "lemma": "a\u0165"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "nem\u00edzy",
+              "xsampa": "nEmi:zI",
+              "morph": "X24-------------",
+              "phoebe": "nemIzi",
+              "token": "nem\u00edzy",
+              "lemma": "nem\u00edzy"
+            }
+          ],
+          "rhyme": 26,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "A o kter\u00fdch nev\u00edme:",
+          "punct": {
+            "4": ":"
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "o",
+              "xsampa": "o",
+              "morph": "RR--6-----------",
+              "phoebe": "o",
+              "token": "o",
+              "lemma": "o"
+            },
+            {
+              "token_lc": "kter\u00fdch",
+              "xsampa": "ktEri:x",
+              "morph": "P4FP6-----------",
+              "phoebe": "kterIx",
+              "token": "kter\u00fdch",
+              "lemma": "kter\u00fd"
+            },
+            {
+              "token_lc": "nev\u00edme",
+              "xsampa": "nEvi:mE",
+              "morph": "VB-P---1P-NA---I",
+              "phoebe": "nevIme",
+              "token": "nev\u00edme",
+              "lemma": "v\u011bd\u011bt"
+            }
+          ],
+          "rhyme": 27,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0100100"
+        },
+        {
+          "text": "Klufty, pecky dej zn\u00e1ti,",
+          "punct": {
+            "1": ",",
+            "4": ")",
+            "2": ")",
+            "6": ","
+          },
+          "words": [
+            {
+              "token_lc": "klufty",
+              "xsampa": "kluftI",
+              "morph": "X24-------------",
+              "phoebe": "klufti",
+              "token": "Klufty",
+              "lemma": "Klufty"
+            },
+            {
+              "token_lc": "pecky",
+              "xsampa": "pEt_skI",
+              "morph": "NNFP1-----A-----",
+              "phoebe": "pecki",
+              "token": "pecky",
+              "lemma": "pecka"
+            },
+            {
+              "token_lc": "dej",
+              "xsampa": "dEj",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "dej",
+              "token": "dej",
+              "lemma": "d\u00e1t"
+            },
+            {
+              "token_lc": "zn\u00e1ti",
+              "xsampa": "zna:cI",
+              "morph": "Vf--------A---2I",
+              "phoebe": "znATi",
+              "token": "zn\u00e1ti",
+              "lemma": "zn\u00e1t"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010110"
+        },
+        {
+          "text": "A \u0161\u0165astn\u011b \u0161orfovati, a)",
+          "punct": {
+            "3": ",",
+            "4": ")"
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "\u0161\u0165astn\u011b",
+              "xsampa": "ScastJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "STastNe",
+              "token": "\u0161\u0165astn\u011b",
+              "lemma": "\u0161\u0165astn\u011b"
+            },
+            {
+              "token_lc": "\u0161orfovati",
+              "xsampa": "SorfovacI",
+              "morph": "X24-------------",
+              "phoebe": "SorfovaTi",
+              "token": "\u0161orfovati",
+              "lemma": "\u0161orfovati"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "NN------------8-",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01010001"
+        },
+        {
+          "text": "Umprochy okazuj d\u00e1le,",
+          "punct": {
+            "4": ",",
+            "2": ")"
+          },
+          "words": [
+            {
+              "token_lc": "umprochy",
+              "xsampa": "umproxI",
+              "morph": "X24-------------",
+              "phoebe": "umproxi",
+              "token": "Umprochy",
+              "lemma": "Umprochy"
+            },
+            {
+              "token_lc": "okazuj",
+              "xsampa": "okazuj",
+              "morph": "X24-------------",
+              "phoebe": "okazuj",
+              "token": "okazuj",
+              "lemma": "okazuj"
+            },
+            {
+              "token_lc": "d\u00e1le",
+              "xsampa": "da:lE",
+              "morph": "Db------------1-",
+              "phoebe": "dAle",
+              "token": "d\u00e1le",
+              "lemma": "d\u00e1le"
+            }
+          ],
+          "rhyme": 28,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10010010"
+        },
+        {
+          "text": "Nedopus\u0165 vodu na t\u00e1le.",
+          "punct": {
+            "5": ")",
+            "4": "."
+          },
+          "words": [
+            {
+              "token_lc": "nedopus\u0165",
+              "xsampa": "nEdopusc",
+              "morph": "Vi-S---2--N----P",
+              "phoebe": "nedopusT",
+              "token": "Nedopus\u0165",
+              "lemma": "dopustit"
+            },
+            {
+              "token_lc": "vodu",
+              "xsampa": "vodu",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "vodu",
+              "token": "vodu",
+              "lemma": "voda"
+            },
+            {
+              "token_lc": "na",
+              "xsampa": "na",
+              "morph": "RR--4-----------",
+              "phoebe": "na",
+              "token": "na",
+              "lemma": "na"
+            },
+            {
+              "token_lc": "t\u00e1le",
+              "xsampa": "ta:lE",
+              "morph": "XX--------------",
+              "phoebe": "tAle",
+              "token": "t\u00e1le",
+              "lemma": "t\u00e1le"
+            }
+          ],
+          "rhyme": 28,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10010100"
+        }
+      ],
+      [
+        {
+          "text": "KUkusy a t\u0159ic\u00e1t\u00fd ",
+          "punct": {
+            "5": ")",
+            "2": ")"
+          },
+          "words": [
+            {
+              "token_lc": "kukusy",
+              "xsampa": "kukusI",
+              "morph": "X24-------------",
+              "phoebe": "kukusi",
+              "token": "KUkusy",
+              "lemma": "KUkusy"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "t\u0159ic\u00e1t\u00fd",
+              "xsampa": "tP\\It_sa:ti:",
+              "morph": "CrNS1---------6-",
+              "phoebe": "tRicAtI",
+              "token": "t\u0159ic\u00e1t\u00fd",
+              "lemma": "t\u0159ic\u00e1t\u00fd"
+            }
+          ],
+          "rhyme": 29,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "V vortech f) v po\u010dtu rozmno\u017euj,",
+          "punct": {
+            "5": ",",
+            "2": ")"
+          },
+          "words": [
+            {
+              "token_lc": "v",
+              "xsampa": "v",
+              "morph": "RR--6-----------",
+              "phoebe": "v",
+              "token": "V",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "vortech",
+              "xsampa": "vortEx",
+              "morph": "X24-------------",
+              "phoebe": "vortex",
+              "token": "vortech",
+              "lemma": "vortech"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "f",
+              "morph": "RR--6-----------",
+              "phoebe": "f",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "po\u010dtu",
+              "xsampa": "pot_Stu",
+              "morph": "NNIS6-----A-----",
+              "phoebe": "poCtu",
+              "token": "po\u010dtu",
+              "lemma": "po\u010det"
+            },
+            {
+              "token_lc": "rozmno\u017euj",
+              "xsampa": "rozmnoZuj",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "rozmnoZuj",
+              "token": "rozmno\u017euj",
+              "lemma": "rozmno\u017eovat"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "A \u0161vuby g) jedovat\u00fd,",
+          "punct": {
+            "3": ")",
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "\u0161vuby",
+              "xsampa": "SvubI",
+              "morph": "X24-------------",
+              "phoebe": "Svubi",
+              "token": "\u0161vuby",
+              "lemma": "\u0161vuby"
+            },
+            {
+              "token_lc": "g",
+              "xsampa": "k",
+              "morph": "NN------------8-",
+              "phoebe": "k",
+              "token": "g",
+              "lemma": "g"
+            },
+            {
+              "token_lc": "jedovat\u00fd",
+              "xsampa": "jEdovati:",
+              "morph": "AAIS1----1A-----",
+              "phoebe": "jedovatI",
+              "token": "jedovat\u00fd",
+              "lemma": "jedovat\u00fd"
+            }
+          ],
+          "rhyme": 29,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101000"
+        },
+        {
+          "text": "Vlky, \u017eump\u00ed zamezuj,",
+          "punct": {
+            "5": ",",
+            "4": ")",
+            "2": ")",
+            "1": ","
+          },
+          "words": [
+            {
+              "token_lc": "vlky",
+              "xsampa": "vl=kI",
+              "morph": "NNMP7-----A-----",
+              "phoebe": "vLki",
+              "token": "Vlky",
+              "lemma": "vlk"
+            },
+            {
+              "token_lc": "\u017eump\u00ed",
+              "xsampa": "Zumpi:",
+              "morph": "X24-------------",
+              "phoebe": "ZumpI",
+              "token": "\u017eump\u00ed",
+              "lemma": "\u017eump\u00ed"
+            },
+            {
+              "token_lc": "zamezuj",
+              "xsampa": "zamEzuj",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "zamezuj",
+              "token": "zamezuj",
+              "lemma": "zamezovat"
+            }
+          ],
+          "rhyme": null,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Dej rozum a chu\u0165 k d\u00edlu,",
+          "punct": {
+            "6": ","
+          },
+          "words": [
+            {
+              "token_lc": "dej",
+              "xsampa": "dEj",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "dej",
+              "token": "Dej",
+              "lemma": "d\u00e1t"
+            },
+            {
+              "token_lc": "rozum",
+              "xsampa": "rozum",
+              "morph": "NNIS4-----A-----",
+              "phoebe": "rozum",
+              "token": "rozum",
+              "lemma": "rozum"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "chu\u0165",
+              "xsampa": "xuc",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "xuT",
+              "token": "chu\u0165",
+              "lemma": "chu\u0165"
+            },
+            {
+              "token_lc": "k",
+              "xsampa": "g",
+              "morph": "RR--3-----------",
+              "phoebe": "g",
+              "token": "k",
+              "lemma": "k"
+            },
+            {
+              "token_lc": "d\u00edlu",
+              "xsampa": "J\\i:lu",
+              "morph": "NNIS3-----A-----",
+              "phoebe": "DIlu",
+              "token": "d\u00edlu",
+              "lemma": "d\u00edl"
+            }
+          ],
+          "rhyme": 30,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1100110"
+        },
+        {
+          "text": "Pop\u0159ej zdravi a s\u00fdlu",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "pop\u0159ej",
+              "xsampa": "popP\\Ej",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "popRej",
+              "token": "Pop\u0159ej",
+              "lemma": "pop\u0159\u00e1t"
+            },
+            {
+              "token_lc": "zdravi",
+              "xsampa": "zdravI",
+              "morph": "X24-------------",
+              "phoebe": "zdravi",
+              "token": "zdravi",
+              "lemma": "zdravi"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "s\u00fdlu",
+              "xsampa": "si:lu",
+              "morph": "X24-------------",
+              "phoebe": "sIlu",
+              "token": "s\u00fdlu",
+              "lemma": "s\u00fdlu"
+            }
+          ],
+          "rhyme": 30,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010010"
+        },
+        {
+          "text": "V\u0161em horn\u00edk\u016fm, n\u00e1kladn\u00edk\u016fm,",
+          "punct": {
+            "3": ",",
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "v\u0161em",
+              "xsampa": "fSEm",
+              "morph": "PLMP3-----------",
+              "phoebe": "fSem",
+              "token": "V\u0161em",
+              "lemma": "v\u0161echen"
+            },
+            {
+              "token_lc": "horn\u00edk\u016fm",
+              "xsampa": "h\\orJi:ku:m",
+              "morph": "NNMP3-----A-----",
+              "phoebe": "horNIkUm",
+              "token": "horn\u00edk\u016fm",
+              "lemma": "horn\u00edk"
+            },
+            {
+              "token_lc": "n\u00e1kladn\u00edk\u016fm",
+              "xsampa": "na:kladJi:ku:m",
+              "morph": "NNIP3-----A-----",
+              "phoebe": "nAkladNIkUm",
+              "token": "n\u00e1kladn\u00edk\u016fm",
+              "lemma": "n\u00e1kladn\u00edk"
+            }
+          ],
+          "rhyme": 31,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01001000"
+        },
+        {
+          "text": "Ou\u0159edn\u00edk\u016fm a d\u011bln\u00edk\u016fm.",
+          "punct": {
+            "3": "."
+          },
+          "words": [
+            {
+              "token_lc": "ou\u0159edn\u00edk\u016fm",
+              "xsampa": "o_uP\\EdJi:ku:m",
+              "morph": "NNMP3-----A-----",
+              "phoebe": "0RedNIkUm",
+              "token": "Ou\u0159edn\u00edk\u016fm",
+              "lemma": "Ou\u0159edn\u00edk"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "d\u011bln\u00edk\u016fm",
+              "xsampa": "J\\ElJi:ku:m",
+              "morph": "NNMP3-----A-----",
+              "phoebe": "DelNIkUm",
+              "token": "d\u011bln\u00edk\u016fm",
+              "lemma": "d\u011bln\u00edk"
+            }
+          ],
+          "rhyme": 31,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10000100"
+        }
+      ],
+      [
+        {
+          "text": "Tovary\u0161stvo zpojen\u00e9",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "tovary\u0161stvo",
+              "xsampa": "tovarISstvo",
+              "morph": "NNNS1-----A-----",
+              "phoebe": "tovariSstvo",
+              "token": "Tovary\u0161stvo",
+              "lemma": "tovary\u0161stvo"
+            },
+            {
+              "token_lc": "zpojen\u00e9",
+              "xsampa": "spojEnE:",
+              "morph": "X24-------------",
+              "phoebe": "spojenE",
+              "token": "zpojen\u00e9",
+              "lemma": "zpojen\u00e9"
+            }
+          ],
+          "rhyme": 32,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000100"
+        },
+        {
+          "text": "Zdr\u017euj v prav\u00e9 svornosti,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "zdr\u017euj",
+              "xsampa": "zdr=Zuj",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "zdQZuj",
+              "token": "Zdr\u017euj",
+              "lemma": "zdr\u017eovat"
+            },
+            {
+              "token_lc": "v",
+              "xsampa": "f",
+              "morph": "RR--6-----------",
+              "phoebe": "f",
+              "token": "v",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "prav\u00e9",
+              "xsampa": "pravE:",
+              "morph": "AAFS6----1A-----",
+              "phoebe": "pravE",
+              "token": "prav\u00e9",
+              "lemma": "prav\u00fd"
+            },
+            {
+              "token_lc": "svornosti",
+              "xsampa": "svornoscI",
+              "morph": "NNFS6-----A-----",
+              "phoebe": "svornosTi",
+              "token": "svornosti",
+              "lemma": "svornost"
+            }
+          ],
+          "rhyme": 33,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "Tmu, spoury a\u0165 roz\u017een\u00e9",
+          "punct": {
+            "1": ","
+          },
+          "words": [
+            {
+              "token_lc": "tmu",
+              "xsampa": "tmu",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "tmu",
+              "token": "Tmu",
+              "lemma": "tma"
+            },
+            {
+              "token_lc": "spoury",
+              "xsampa": "spo_urI",
+              "morph": "X24-------------",
+              "phoebe": "sp0ri",
+              "token": "spoury",
+              "lemma": "spoury"
+            },
+            {
+              "token_lc": "a\u0165",
+              "xsampa": "ac",
+              "morph": "J^--------------",
+              "phoebe": "aT",
+              "token": "a\u0165",
+              "lemma": "a\u0165"
+            },
+            {
+              "token_lc": "roz\u017een\u00e9",
+              "xsampa": "rozZEnE:",
+              "morph": "X24-------------",
+              "phoebe": "rozZenE",
+              "token": "roz\u017een\u00e9",
+              "lemma": "roz\u017een\u00e9"
+            }
+          ],
+          "rhyme": 32,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1100100"
+        },
+        {
+          "text": "L\u00e1ska s dobro\u010dinosti:",
+          "punct": {
+            "3": ":"
+          },
+          "words": [
+            {
+              "token_lc": "l\u00e1ska",
+              "xsampa": "la:ska",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "lAska",
+              "token": "L\u00e1ska",
+              "lemma": "l\u00e1ska"
+            },
+            {
+              "token_lc": "s",
+              "xsampa": "z",
+              "morph": "RR--7-----------",
+              "phoebe": "z",
+              "token": "s",
+              "lemma": "s"
+            },
+            {
+              "token_lc": "dobro\u010dinosti",
+              "xsampa": "dobrot_SInoscI",
+              "morph": "X24-------------",
+              "phoebe": "dobroCinosTi",
+              "token": "dobro\u010dinosti",
+              "lemma": "dobro\u010dinosti"
+            }
+          ],
+          "rhyme": 33,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010000"
+        },
+        {
+          "text": "Pane! Pane usly\u0161 n\u00e1s!",
+          "punct": {
+            "4": "!",
+            "1": "!"
+          },
+          "words": [
+            {
+              "token_lc": "pane",
+              "xsampa": "panE",
+              "morph": "TT--------------",
+              "phoebe": "pane",
+              "token": "Pane",
+              "lemma": "pane"
+            },
+            {
+              "token_lc": "pane",
+              "xsampa": "panE",
+              "morph": "TT--------------",
+              "phoebe": "pane",
+              "token": "Pane",
+              "lemma": "pane"
+            },
+            {
+              "token_lc": "usly\u0161",
+              "xsampa": "uslIS",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "usliS",
+              "token": "usly\u0161",
+              "lemma": "usly\u0161et"
+            },
+            {
+              "token_lc": "n\u00e1s",
+              "xsampa": "na:s",
+              "morph": "PP-P4--1--------",
+              "phoebe": "nAs",
+              "token": "n\u00e1s",
+              "lemma": "my"
+            }
+          ],
+          "rhyme": 34,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010100"
+        },
+        {
+          "text": "P\u0159\u00edjmi sjednocen\u00fd hlas,",
+          "punct": {
+            "3": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159\u00edjmi",
+              "xsampa": "pP\\i:jmI",
+              "morph": "X24-------------",
+              "phoebe": "pRIjmi",
+              "token": "P\u0159\u00edjmi",
+              "lemma": "P\u0159\u00edjmi"
+            },
+            {
+              "token_lc": "sjednocen\u00fd",
+              "xsampa": "sjEdnot_sEni:",
+              "morph": "AAIS1----1A-----",
+              "phoebe": "sjednocenI",
+              "token": "sjednocen\u00fd",
+              "lemma": "sjednocen\u00fd"
+            },
+            {
+              "token_lc": "hlas",
+              "xsampa": "h\\las",
+              "morph": "NNIS1-----A-----",
+              "phoebe": "hlas",
+              "token": "hlas",
+              "lemma": "hlas"
+            }
+          ],
+          "rhyme": 34,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1010001"
+        },
+        {
+          "text": "P\u0159\u00edjmi sl\u00edb\u00ed a ob\u011bt\u00ed,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159\u00edjmi",
+              "xsampa": "pP\\i:jmI",
+              "morph": "X24-------------",
+              "phoebe": "pRIjmi",
+              "token": "P\u0159\u00edjmi",
+              "lemma": "P\u0159\u00edjmi"
+            },
+            {
+              "token_lc": "sl\u00edb\u00ed",
+              "xsampa": "sli:bi:",
+              "morph": "VB-S---3P-AA---P",
+              "phoebe": "slIbI",
+              "token": "sl\u00edb\u00ed",
+              "lemma": "sl\u00edbit"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "ob\u011bt\u00ed",
+              "xsampa": "objEci:",
+              "morph": "NNFP2-----A-----",
+              "phoebe": "objeTI",
+              "token": "ob\u011bt\u00ed",
+              "lemma": "ob\u011b\u0165"
+            }
+          ],
+          "rhyme": 35,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10100100"
+        },
+        {
+          "text": "P\u0159\u00edjmi Ot\u010de! od sv\u00fdch d\u011bti.",
+          "punct": {
+            "5": ".",
+            "2": "!"
+          },
+          "words": [
+            {
+              "token_lc": "p\u0159\u00edjmi",
+              "xsampa": "pP\\i:jmI",
+              "morph": "X24-------------",
+              "phoebe": "pRIjmi",
+              "token": "P\u0159\u00edjmi",
+              "lemma": "P\u0159\u00edjmi"
+            },
+            {
+              "token_lc": "ot\u010de",
+              "xsampa": "ott_SE",
+              "morph": "NNMS5-----A-----",
+              "phoebe": "otCe",
+              "token": "Ot\u010de",
+              "lemma": "otec"
+            },
+            {
+              "token_lc": "od",
+              "xsampa": "ot",
+              "morph": "RR--2-----------",
+              "phoebe": "ot",
+              "token": "od",
+              "lemma": "od"
+            },
+            {
+              "token_lc": "sv\u00fdch",
+              "xsampa": "svi:x",
+              "morph": "P8FP2-----------",
+              "phoebe": "svIx",
+              "token": "sv\u00fdch",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "d\u011bti",
+              "xsampa": "J\\EcI",
+              "morph": "NNFP1-----A-----",
+              "phoebe": "DeTi",
+              "token": "d\u011bti",
+              "lemma": "d\u00edt\u011b"
+            }
+          ],
+          "rhyme": 35,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10101010"
+        }
+      ],
+      [
+        {
+          "text": "NAU\u010d n\u00e1s v\u0161ecky stejn\u011b,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "nau\u010d",
+              "xsampa": "naut_S",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "nauC",
+              "token": "NAU\u010d",
+              "lemma": "nau\u010dit"
+            },
+            {
+              "token_lc": "n\u00e1s",
+              "xsampa": "na:s",
+              "morph": "PP-P4--1--------",
+              "phoebe": "nAs",
+              "token": "n\u00e1s",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "v\u0161ecky",
+              "xsampa": "fSEt_skI",
+              "morph": "PLMP4-----------",
+              "phoebe": "fSecki",
+              "token": "v\u0161ecky",
+              "lemma": "v\u0161ecek"
+            },
+            {
+              "token_lc": "stejn\u011b",
+              "xsampa": "stEjJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "stejNe",
+              "token": "stejn\u011b",
+              "lemma": "stejn\u011b"
+            }
+          ],
+          "rhyme": 36,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1001010"
+        },
+        {
+          "text": "Tvou Bo\u017eskou vuli zn\u00e1ti,",
+          "punct": {
+            "4": ","
+          },
+          "words": [
+            {
+              "token_lc": "tvou",
+              "xsampa": "tvo_u",
+              "morph": "PSFS4-S2------1-",
+              "phoebe": "tv0",
+              "token": "Tvou",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "bo\u017eskou",
+              "xsampa": "boSsko_u",
+              "morph": "AAFS4----1A-----",
+              "phoebe": "boSsk0",
+              "token": "Bo\u017eskou",
+              "lemma": "bo\u017esk\u00fd"
+            },
+            {
+              "token_lc": "vuli",
+              "xsampa": "vulI",
+              "morph": "X24-------------",
+              "phoebe": "vuli",
+              "token": "vuli",
+              "lemma": "vuli"
+            },
+            {
+              "token_lc": "zn\u00e1ti",
+              "xsampa": "zna:cI",
+              "morph": "Vf--------A---2I",
+              "phoebe": "znATi",
+              "token": "zn\u00e1ti",
+              "lemma": "zn\u00e1t"
+            }
+          ],
+          "rhyme": 37,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101010"
+        },
+        {
+          "text": "Spravedliv\u011b a v\u011brn\u011b",
+          "punct": {},
+          "words": [
+            {
+              "token_lc": "spravedliv\u011b",
+              "xsampa": "spravEdlIvjE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "spravedlivje",
+              "token": "Spravedliv\u011b",
+              "lemma": "spravedliv\u011b"
+            },
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "a",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "v\u011brn\u011b",
+              "xsampa": "vjErJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "vjerNe",
+              "token": "v\u011brn\u011b",
+              "lemma": "v\u011brn\u011b"
+            }
+          ],
+          "rhyme": 36,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1000010"
+        },
+        {
+          "text": "V sv\u00e9m povol\u00e1n\u00ed st\u00e1ti:",
+          "punct": {
+            "4": ":"
+          },
+          "words": [
+            {
+              "token_lc": "v",
+              "xsampa": "f",
+              "morph": "RR--6-----------",
+              "phoebe": "f",
+              "token": "V",
+              "lemma": "v"
+            },
+            {
+              "token_lc": "sv\u00e9m",
+              "xsampa": "svE:m",
+              "morph": "P8NS6-----------",
+              "phoebe": "svEm",
+              "token": "sv\u00e9m",
+              "lemma": "sv\u016fj"
+            },
+            {
+              "token_lc": "povol\u00e1n\u00ed",
+              "xsampa": "povola:Ji:",
+              "morph": "NNNS6-----A-----",
+              "phoebe": "povolANI",
+              "token": "povol\u00e1n\u00ed",
+              "lemma": "povol\u00e1n\u00ed"
+            },
+            {
+              "token_lc": "st\u00e1ti",
+              "xsampa": "sta:cI",
+              "morph": "Vf--------A---2B",
+              "phoebe": "stATi",
+              "token": "st\u00e1ti",
+              "lemma": "st\u00e1t"
+            }
+          ],
+          "rhyme": 37,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0100010"
+        },
+        {
+          "text": "Zru\u0161 nev\u011bru, vl\u00edvej ctnost,",
+          "punct": {
+            "4": ",",
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "zru\u0161",
+              "xsampa": "zruS",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "zruS",
+              "token": "Zru\u0161",
+              "lemma": "zru\u0161it"
+            },
+            {
+              "token_lc": "nev\u011bru",
+              "xsampa": "nEvjEru",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "nevjeru",
+              "token": "nev\u011bru",
+              "lemma": "nev\u011bra"
+            },
+            {
+              "token_lc": "vl\u00edvej",
+              "xsampa": "vli:vEj",
+              "morph": "Vi-S---2--A----I",
+              "phoebe": "vlIvej",
+              "token": "vl\u00edvej",
+              "lemma": "vl\u00edvat"
+            },
+            {
+              "token_lc": "ctnost",
+              "xsampa": "t_stnost",
+              "morph": "NNFS4-----A-----",
+              "phoebe": "ctnost",
+              "token": "ctnost",
+              "lemma": "ctnost"
+            }
+          ],
+          "rhyme": 38,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "1100101"
+        },
+        {
+          "text": "Tv\u00e1 \u010dest a\u0165 m\u00e1 v\u0161udy zrost,",
+          "punct": {
+            "6": ","
+          },
+          "words": [
+            {
+              "token_lc": "tv\u00e1",
+              "xsampa": "tva:",
+              "morph": "PSFS1-S2------1-",
+              "phoebe": "tvA",
+              "token": "Tv\u00e1",
+              "lemma": "tv\u016fj"
+            },
+            {
+              "token_lc": "\u010dest",
+              "xsampa": "t_SEst",
+              "morph": "NNFS1-----A-----",
+              "phoebe": "Cest",
+              "token": "\u010dest",
+              "lemma": "\u010dest"
+            },
+            {
+              "token_lc": "a\u0165",
+              "xsampa": "ac",
+              "morph": "J^--------------",
+              "phoebe": "aT",
+              "token": "a\u0165",
+              "lemma": "a\u0165"
+            },
+            {
+              "token_lc": "m\u00e1",
+              "xsampa": "ma:",
+              "morph": "VB-S---3P-AA---I",
+              "phoebe": "mA",
+              "token": "m\u00e1",
+              "lemma": "m\u00edt"
+            },
+            {
+              "token_lc": "v\u0161udy",
+              "xsampa": "fSudI",
+              "morph": "Db--------------",
+              "phoebe": "fSudi",
+              "token": "v\u0161udy",
+              "lemma": "v\u0161udy"
+            },
+            {
+              "token_lc": "zrost",
+              "xsampa": "zrost",
+              "morph": "NNIS1-----A-----",
+              "phoebe": "zrost",
+              "token": "zrost",
+              "lemma": "zrost"
+            }
+          ],
+          "rhyme": 38,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "0101101"
+        },
+        {
+          "text": "A n\u011bkdy dej n\u00e1m spole\u010dn\u011b,",
+          "punct": {
+            "5": ","
+          },
+          "words": [
+            {
+              "token_lc": "a",
+              "xsampa": "a",
+              "morph": "J^--------------",
+              "phoebe": "a",
+              "token": "A",
+              "lemma": "a"
+            },
+            {
+              "token_lc": "n\u011bkdy",
+              "xsampa": "JEgdI",
+              "morph": "Db--------------",
+              "phoebe": "Negdi",
+              "token": "n\u011bkdy",
+              "lemma": "n\u011bkdy"
+            },
+            {
+              "token_lc": "dej",
+              "xsampa": "dEj",
+              "morph": "Vi-S---2--A----P",
+              "phoebe": "dej",
+              "token": "dej",
+              "lemma": "d\u00e1t"
+            },
+            {
+              "token_lc": "n\u00e1m",
+              "xsampa": "na:m",
+              "morph": "PP-P3--1--------",
+              "phoebe": "nAm",
+              "token": "n\u00e1m",
+              "lemma": "my"
+            },
+            {
+              "token_lc": "spole\u010dn\u011b",
+              "xsampa": "spolEt_SJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "spoleCNe",
+              "token": "spole\u010dn\u011b",
+              "lemma": "spole\u010dn\u011b"
+            }
+          ],
+          "rhyme": 39,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "01010100"
+        },
+        {
+          "text": "Tebe ct\u00edt, milovat v\u011b\u010dn\u011b.",
+          "punct": {
+            "4": ".",
+            "2": ","
+          },
+          "words": [
+            {
+              "token_lc": "tebe",
+              "xsampa": "tEbE",
+              "morph": "PP-S4--2--------",
+              "phoebe": "tebe",
+              "token": "Tebe",
+              "lemma": "ty"
+            },
+            {
+              "token_lc": "ct\u00edt",
+              "xsampa": "t_sci:t",
+              "morph": "Vf--------A----I",
+              "phoebe": "cTIt",
+              "token": "ct\u00edt",
+              "lemma": "ct\u00edt"
+            },
+            {
+              "token_lc": "milovat",
+              "xsampa": "mIlovat",
+              "morph": "Vf--------A----I",
+              "phoebe": "milovat",
+              "token": "milovat",
+              "lemma": "milovat"
+            },
+            {
+              "token_lc": "v\u011b\u010dn\u011b",
+              "xsampa": "vjEt_SJE",
+              "morph": "Dg-------1A-----",
+              "phoebe": "vjeCNe",
+              "token": "v\u011b\u010dn\u011b",
+              "lemma": "v\u011b\u010dn\u011b"
+            }
+          ],
+          "rhyme": 39,
+          "metre": [
+            {
+              "foot": "",
+              "clause": "a",
+              "pattern": "XXXXXXXX",
+              "type": "N"
+            }
+          ],
+          "stress": "10110010"
+        }
+      ]
+    ],
+    "results": {
+      "poem": null
+    }
+  }
+]
