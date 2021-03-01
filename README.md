@@ -16,7 +16,7 @@ JSON files comprise not only the text themselves and their metadata but also:
 
 ## Structure
 
-Each file holds poems comming from a single poetry. Each poem is a dict with following structure:
+Each file holds poems comming from a single book of poetry. Each poem is a dict with following structure:
 
 ```python
 {
