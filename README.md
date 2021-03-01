@@ -13,7 +13,7 @@ JSON files comprise not only the text themselves and their metadata but also:
 </ul>
 
 *NOTE: There are several re-editions in the corpus. One poem thus may appear multiple times.
-*
+
 ## Structure
 
 Each file holds poems comming from a single poetry. Each poem is a dict with following structure:
