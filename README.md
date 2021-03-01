@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/342561897.svg)](https://zenodo.org/badge/latestdoi/342561897)
+
 # Corpus of Czech Verse
 
 This repo contains 1305 out of 1689 books of poetry from the [Corpus of Czech Verse](http://versologie.cz/v2/web_content/corpus.php?lang=en) (384 books are still covered by copyright protection).
