@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/342561897.svg)](https://zenodo.org/badge/latestdoi/342561897)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569929.svg)](https://doi.org/10.5281/zenodo.4569929)
 
 # Corpus of Czech Verse
 
